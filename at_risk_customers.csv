@@ -1,501 +1,501 @@
-CustomerID,Count,Country,State,City,Zip Code,Lat Long,Latitude,Longitude,Gender,Senior Citizen,Partner,Dependents,Tenure Months,Phone Service,Multiple Lines,Internet Service,Online Security,Online Backup,Device Protection,Tech Support,Streaming TV,Streaming Movies,Contract,Paperless Billing,Payment Method,Monthly Charges,Total Charges,Churn Label,Churn Value,Churn Reason,Stay Probability,Churn Probability
-6630-UJZMY,1,United States,California,Palo Alto,94306,"37.416159, -122.131337",37.416159,-122.131337,Female,Yes,Yes,No,4,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,83.25,308.05,No,0,,0.15847017506171757,0.8415298249382824
-4927-WWOOZ,1,United States,California,Pacific Grove,93950,"36.618337, -121.926417",36.618337,-121.926417,Male,No,Yes,No,2,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,91.45,171.45,No,0,,0.16087977627534367,0.8391202237246563
-3489-HHPFY,1,United States,California,Amboy,92304,"34.559882, -115.637164",34.559882,-115.637164,Female,No,Yes,No,2,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,84.05,134.05,No,0,,0.16196827637173672,0.8380317236282633
-5150-ITWWB,1,United States,California,Hamilton City,95951,"39.732767, -122.042298",39.732767,-122.042298,Male,Yes,No,No,3,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,94.85,335.75,No,0,,0.16629133643175809,0.8337086635682419
-2545-EBUPK,1,United States,California,Los Angeles,90045,"33.954017, -118.402447",33.954017,-118.402447,Female,Yes,No,No,2,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,84.05,186.05,No,0,,0.19120991504814622,0.8087900849518538
-4912-PIGUY,1,United States,California,Perris,92571,"33.828289, -117.201666",33.828289,-117.201666,Female,No,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,84.6,84.6,No,0,,0.19155670862176655,0.8084432913782335
-7668-XCFYV,1,United States,California,Glendora,91741,"34.14649, -117.849815",34.14649,-117.849815,Female,Yes,Yes,No,17,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,92.55,1614.7,No,0,,0.19555263573001802,0.804447364269982
-7398-SKNQZ,1,United States,California,Downey,90241,"33.940884, -118.128628",33.940884,-118.128628,Female,No,Yes,No,3,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,94.9,273.2,No,0,,0.19694318169449376,0.8030568183055062
-0187-QSXOE,1,United States,California,Fresno,93725,"36.623632, -119.741322",36.623632,-119.741322,Male,Yes,Yes,No,7,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,89.0,605.45,No,0,,0.198231491158409,0.801768508841591
-8161-QYMTT,1,United States,California,Santa Maria,93454,"34.943523, -120.256729",34.943523,-120.256729,Male,No,No,No,7,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,94.1,701.3,No,0,,0.20131010848041064,0.7986898915195894
-7225-CBZPL,1,United States,California,Earlimart,93219,"35.858054, -119.305858",35.858054,-119.305858,Male,Yes,Yes,No,17,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,94.8,1563.9,No,0,,0.20136423200014175,0.7986357679998582
-9957-YODKZ,1,United States,California,Canby,96015,"41.486953, -120.913975",41.486953,-120.913975,Male,Yes,Yes,No,6,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,80.8,457.1,No,0,,0.20227108958890672,0.7977289104110933
-8622-ZLFKO,1,United States,California,Fresno,93710,"36.822715, -119.761826",36.822715,-119.761826,Female,No,Yes,No,6,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,90.75,512.25,No,0,,0.20323946280299743,0.7967605371970026
-3452-GWUIN,1,United States,California,Raisin City,93652,"36.594542, -119.905245",36.594542,-119.905245,Female,Yes,Yes,No,19,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,94.95,1760.25,No,0,,0.20617371962802944,0.7938262803719706
-2077-MPJQO,1,United States,California,Menlo Park,94025,"37.449551, -122.183762",37.449551,-122.183762,Male,Yes,Yes,No,7,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75.4,533.05,No,0,,0.21343865069239043,0.7865613493076096
-0021-IKXGC,1,United States,California,San Marcos,92078,"33.119028, -117.166036",33.119028,-117.166036,Female,Yes,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,72.1,72.1,No,0,,0.21413386791663302,0.785866132083367
-6350-XFYGW,1,United States,California,Ferndale,95536,"40.4785, -124.301372",40.4785,-124.301372,Male,Yes,No,No,4,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,94.75,422.4,No,0,,0.21420020197710532,0.7857997980228947
-6969-MVBAI,1,United States,California,Davis Creek,96108,"41.750354, -120.403885",41.750354,-120.403885,Female,Yes,No,No,9,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,90.1,816.8,No,0,,0.21423007653502513,0.7857699234649749
-8739-XNIKG,1,United States,California,Bakersfield,93301,"35.383937, -119.020428",35.383937,-119.020428,Female,No,No,No,5,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,84.0,424.75,No,0,,0.21424899681254173,0.7857510031874583
-9334-GWGOW,1,United States,California,Mc Kittrick,93251,"35.38381, -119.730885",35.38381,-119.730885,Male,Yes,Yes,No,7,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74.85,485.25,No,0,,0.21493981301394915,0.7850601869860508
-7577-SWIFR,1,United States,California,Glendale,91206,"34.162515, -118.203869",34.162515,-118.203869,Male,No,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,89.25,89.25,No,0,,0.22050458789571392,0.7794954121042861
-3096-GKWEB,1,United States,California,Bakersfield,93306,"35.449881, -118.841442",35.449881,-118.841442,Male,No,Yes,No,18,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,94.75,1691.9,No,0,,0.2222663703846024,0.7777336296153976
-0365-BZUWY,1,United States,California,San Juan Capistrano,92675,"33.521447, -117.602555",33.521447,-117.602555,Male,No,Yes,No,17,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,102.55,1742.5,No,0,,0.22377803581408384,0.7762219641859162
-3320-VEOYC,1,United States,California,Beverly Hills,90210,"34.099891, -118.414338",34.099891,-118.414338,Male,Yes,No,No,14,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95.6,1273.3,No,0,,0.22561692410526402,0.774383075894736
-4847-TAJYI,1,United States,California,Chula Vista,91911,"32.607964, -117.059459",32.607964,-117.059459,Female,Yes,No,No,6,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,89.35,567.8,No,0,,0.22615903923896552,0.7738409607610345
-9799-CAYJJ,1,United States,California,West Hills,91307,"34.199787, -118.68493",34.199787,-118.68493,Female,Yes,Yes,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.3,153.8,No,0,,0.22995868162334365,0.7700413183766563
-3318-NMQXL,1,United States,California,El Monte,91731,"34.079934, -118.046695",34.079934,-118.046695,Male,No,No,No,3,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,92.0,266.8,No,0,,0.23103678728563803,0.768963212714362
-2880-FPNAE,1,United States,California,Van Nuys,91405,"34.202494, -118.448048",34.202494,-118.448048,Male,Yes,Yes,No,2,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,74.2,140.1,No,0,,0.2312028460026676,0.7687971539973324
-1197-BVMVG,1,United States,California,Friant,93626,"37.027663, -119.69056",37.027663,-119.69056,Female,Yes,No,No,4,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74.45,294.45,No,0,,0.23184481744646845,0.7681551825535315
-3462-BJQQA,1,United States,California,Belvedere Tiburon,94920,"37.885629, -122.46858",37.885629,-122.46858,Female,No,No,No,6,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,89.75,552.65,No,0,,0.23413645931975424,0.7658635406802458
-4115-NZRKS,1,United States,California,San Diego,92102,"32.716007, -117.117462",32.716007,-117.117462,Female,Yes,No,No,7,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,89.15,574.35,No,0,,0.23454208435058221,0.7654579156494178
-9919-KNPOO,1,United States,California,La Mirada,90638,"33.902045, -118.008961",33.902045,-118.008961,Female,No,Yes,No,21,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,94.3,1948.35,No,0,,0.23457904691166098,0.765420953088339
-1452-VOQCH,1,United States,California,Hinkley,92347,"34.983808, -117.239306",34.983808,-117.239306,Male,No,No,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75.1,75.1,No,0,,0.23558994705369773,0.7644100529463023
-5935-FCCNB,1,United States,California,Downey,90242,"33.921793, -118.140588",33.921793,-118.140588,Female,Yes,No,No,17,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,94.2,1608.15,No,0,,0.23637880992366267,0.7636211900763373
-4929-XIHVW,1,United States,California,Los Angeles,90034,"34.030578, -118.399613",34.030578,-118.399613,Male,Yes,Yes,No,2,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),95.5,181.65,No,0,,0.23822154708387078,0.7617784529161292
-4090-KPJIP,1,United States,California,Anaheim,92806,"33.83796, -117.870494",33.83796,-117.870494,Female,No,No,No,3,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74.95,212.4,No,0,,0.24278981712170222,0.7572101828782978
-8775-ERLNB,1,United States,California,Indio,92203,"33.752938, -116.230055",33.752938,-116.230055,Male,Yes,Yes,No,1,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,74.3,74.3,No,0,,0.24300698031175394,0.7569930196882461
-2215-ZAFGX,1,United States,California,La Mesa,91942,"32.782501, -117.01611",32.782501,-117.01611,Male,No,No,No,9,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,85.5,791.7,No,0,,0.24342218962596374,0.7565778103740363
-1173-XZPYF,1,United States,California,Torrance,90501,"33.833699, -118.314387",33.833699,-118.314387,Female,No,No,No,11,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,89.2,990.3,No,0,,0.24395071622305442,0.7560492837769456
-5995-SNNEW,1,United States,California,Whittier,90605,"33.960891, -118.032222",33.960891,-118.032222,Male,Yes,Yes,No,23,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,104.45,2184.85,No,0,,0.24455413419569616,0.7554458658043038
-7321-VGNKU,1,United States,California,Paskenta,96074,"39.884395, -122.587513",39.884395,-122.587513,Female,No,Yes,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.35,120.25,No,0,,0.2479872254160751,0.7520127745839249
-4749-OJKQU,1,United States,California,San Jose,95132,"37.424655, -121.74841",37.424655,-121.74841,Female,No,No,No,4,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75.65,302.35,No,0,,0.2487022894832247,0.7512977105167753
-7044-YAACC,1,United States,California,Napa,94559,"38.232389, -122.324944",38.232389,-122.324944,Male,Yes,Yes,No,4,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.2,280.35,No,0,,0.24976233261740066,0.7502376673825993
-7439-DKZTW,1,United States,California,Paicines,95043,"36.525703, -120.952122",36.525703,-120.952122,Male,No,No,No,1,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,80.55,80.55,No,0,,0.25001092245199896,0.749989077548001
-2799-ARNLO,1,United States,California,Bonsall,92003,"33.290907, -117.202895",33.290907,-117.202895,Female,Yes,Yes,No,5,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.35,341.6,No,0,,0.2508010383974526,0.7491989616025474
-6583-KQJLK,1,United States,California,Twin Bridges,95735,"38.805481, -120.13287",38.805481,-120.13287,Female,Yes,Yes,No,15,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,94.65,1285.05,No,0,,0.25568098125029737,0.7443190187497026
-4234-XTNEA,1,United States,California,Irvine,92606,"33.703976, -117.824172",33.703976,-117.824172,Male,No,No,No,2,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,79.95,174.45,No,0,,0.2566396520389197,0.7433603479610803
-6357-JJPQT,1,United States,California,San Gabriel,91776,"34.089927, -118.095645",34.089927,-118.095645,Female,No,No,No,3,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,80.5,232.35,No,0,,0.2570229461558573,0.7429770538441427
-4298-OYIFC,1,United States,California,Loyalton,96118,"39.637471, -120.226338",39.637471,-120.226338,Male,No,Yes,No,15,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,103.45,1539.8,No,0,,0.257094508965824,0.742905491034176
-0168-XZKBB,1,United States,California,Boron,93516,"34.95703, -117.73045",34.95703,-117.73045,Female,No,Yes,No,19,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,86.85,1564.4,No,0,,0.25731986834727083,0.7426801316527292
-4853-OITSN,1,United States,California,Oakland,94606,"37.792489, -122.244314",37.792489,-122.244314,Male,No,Yes,No,5,Yes,Yes,Fiber optic,Yes,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,89.15,413.25,No,0,,0.25804985889249976,0.7419501411075002
-9094-AZPHK,1,United States,California,San Bernardino,92405,"34.142747, -117.300864",34.142747,-117.300864,Female,No,No,No,15,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,100.15,1415,No,0,,0.2581386111687657,0.7418613888312343
-4813-HQMGZ,1,United States,California,Ducor,93218,"35.846067, -119.004073",35.846067,-119.004073,Female,No,Yes,No,8,Yes,Yes,Fiber optic,No,No,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,90.25,743.75,No,0,,0.25822771179580006,0.7417722882041999
-5348-CAGXB,1,United States,California,Irvine,92614,"33.680302, -117.833296",33.680302,-117.833296,Male,No,No,No,12,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,89.55,1021.75,No,0,,0.25845418684182,0.74154581315818
-2123-AGEEN,1,United States,California,Millbrae,94030,"37.601248, -122.403099",37.601248,-122.403099,Female,Yes,No,No,7,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,84.35,609.65,No,0,,0.25867723534405906,0.7413227646559409
-3422-GALYP,1,United States,California,Phillipsville,95559,"40.184094, -123.745487",40.184094,-123.745487,Male,No,No,No,2,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,79.45,145.15,No,0,,0.25928340003695904,0.740716599963041
-2371-JQHZZ,1,United States,California,Bakersfield,93307,"35.280113, -118.962329",35.280113,-118.962329,Male,No,Yes,No,24,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,93.0,2248.05,No,0,,0.25990558967392907,0.7400944103260709
-7994-UYIVZ,1,United States,California,Miramonte,93641,"36.696759, -119.024051",36.696759,-119.024051,Male,No,Yes,No,8,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),85.65,659.45,No,0,,0.2605019661111221,0.7394980338888779
-8107-KNCIM,1,United States,California,San Francisco,94111,"37.801776, -122.402293",37.801776,-122.402293,Male,Yes,Yes,No,14,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75.1,1013.35,No,0,,0.26055052084287644,0.7394494791571236
-7363-QTBIW,1,United States,California,Scotts Valley,95066,"37.070177, -122.010077",37.070177,-122.010077,Female,No,Yes,No,9,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,79.75,769.1,No,0,,0.26119981956799754,0.7388001804320025
-9290-SHCMB,1,United States,California,Brownsville,95919,"39.440687, -121.263583",39.440687,-121.263583,Female,Yes,No,No,13,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,96.85,1235.55,No,0,,0.26185192220405806,0.7381480777959419
-8087-LGYHQ,1,United States,California,Crestline,92325,"34.248061, -117.29028",34.248061,-117.29028,Male,No,No,No,9,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,94.05,811.65,No,0,,0.26466958511550454,0.7353304148844955
-6229-LSCKB,1,United States,California,Encino,91436,"34.152875, -118.486056",34.152875,-118.486056,Male,Yes,No,No,6,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,79.7,497.6,No,0,,0.26531208055619915,0.7346879194438009
-6734-GMPVK,1,United States,California,Santa Maria,93454,"34.943523, -120.256729",34.943523,-120.256729,Male,No,No,No,5,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,105.3,550.6,No,0,,0.2659553895913117,0.7340446104086883
-7858-GTZSP,1,United States,California,San Lucas,93954,"36.125529, -120.864443",36.125529,-120.864443,Female,No,No,No,12,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,86.55,1066.9,No,0,,0.2669269125753536,0.7330730874246464
-3878-AVSOQ,1,United States,California,La Jolla,92037,"32.853743, -117.25034",32.853743,-117.25034,Female,Yes,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,71.25,71.25,No,0,,0.2681988243956144,0.7318011756043856
-1960-UYCNN,1,United States,California,Julian,92036,"32.980678, -116.262854",32.980678,-116.262854,Male,No,No,No,10,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,95.25,1021.55,No,0,,0.26856710376345505,0.731432896236545
-0840-DFEZH,1,United States,California,Los Angeles,90036,"34.070291, -118.349191",34.070291,-118.349191,Female,No,No,No,7,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75.35,564.65,No,0,,0.26859520413723514,0.7314047958627649
-9605-WGJVW,1,United States,California,Stockton,95204,"37.974498, -121.319568",37.974498,-121.319568,Female,Yes,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.2,70.2,No,0,,0.2688257744902096,0.7311742255097904
-0018-NYROU,1,United States,California,Antelope,95843,"38.715498, -121.363411",38.715498,-121.363411,Female,No,Yes,No,5,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,68.95,351.5,No,0,,0.26940278230035264,0.7305972176996474
-8242-SOQUO,1,United States,California,Oakland,94619,"37.787186, -122.14633",37.787186,-122.14633,Female,Yes,No,No,5,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,84.7,392.5,No,0,,0.2695497035648534,0.7304502964351466
-4060-LDNLU,1,United States,California,Diamond Bar,91765,"33.992416, -117.807874",33.992416,-117.807874,Male,No,No,No,7,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,96.2,639.7,No,0,,0.27013795901103865,0.7298620409889613
-5956-YHHRX,1,United States,California,Pilot Hill,95664,"38.803731, -121.043799",38.803731,-121.043799,Male,Yes,No,No,21,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,104.35,2271.85,No,0,,0.27073232218468146,0.7292676778153185
-2876-GZYZC,1,United States,California,Cerritos,90703,"33.8681, -118.067402",33.8681,-118.067402,Female,No,No,No,13,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,85.95,1215.65,No,0,,0.27217071396060444,0.7278292860393956
-6860-YRJZP,1,United States,California,Sacramento,95820,"38.53508, -121.444144",38.53508,-121.444144,Male,Yes,No,No,9,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74.05,678.45,No,0,,0.2725258580805803,0.7274741419194197
-0480-BIXDE,1,United States,California,Beale Afb,95903,"39.125311, -121.392283",39.125311,-121.392283,Female,No,Yes,No,19,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,96.8,1743.05,No,0,,0.2736549802252981,0.7263450197747019
-3292-PBZEJ,1,United States,California,Greenview,96037,"41.528541, -122.955018",41.528541,-122.955018,Male,Yes,No,No,11,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,111.4,1183.05,No,0,,0.2750944197251519,0.7249055802748481
-2789-HQBOU,1,United States,California,Bakersfield,93306,"35.449881, -118.841442",35.449881,-118.841442,Male,No,No,No,3,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,80.35,253.8,No,0,,0.2752697707869779,0.7247302292130221
-1393-IMKZG,1,United States,California,Fullerton,92831,"33.879983, -117.895482",33.879983,-117.895482,Female,No,No,No,1,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,95.85,95.85,No,0,,0.2757718606790782,0.7242281393209218
-9603-OAIHC,1,United States,California,Palmdale,93551,"34.613476, -118.256358",34.613476,-118.256358,Male,Yes,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.05,70.05,No,0,,0.27589971050834405,0.724100289491656
-8541-QVFKM,1,United States,California,Long Beach,90807,"33.830099, -118.182239",33.830099,-118.182239,Female,No,No,No,8,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,73.5,632.2,No,0,,0.27706526563052924,0.7229347343694708
-3199-XGZCY,1,United States,California,Granada Hills,91344,"34.291273, -118.505104",34.291273,-118.505104,Female,No,No,No,8,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75.25,576.7,No,0,,0.2777589799270097,0.7222410200729903
-1628-BIZYP,1,United States,California,Brentwood,94513,"37.908242, -121.682472",37.908242,-121.682472,Male,No,No,No,1,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,85.0,85,No,0,,0.2792644383809826,0.7207355616190174
-9402-ORRAH,1,United States,California,La Canada Flintridge,91011,"34.234912, -118.153729",34.234912,-118.153729,Female,Yes,No,No,15,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,91.5,1400.3,No,0,,0.2819975551682373,0.7180024448317627
-6198-RTPMF,1,United States,California,Oregon House,95962,"39.342587, -121.249833",39.342587,-121.249833,Female,No,Yes,No,17,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,92.6,1579.7,No,0,,0.28267503545591144,0.7173249645440886
-2235-DWLJU,1,United States,California,Thousand Palms,92276,"33.849263, -116.382778",33.849263,-116.382778,Female,Yes,No,No,6,No,No phone service,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,44.4,263.05,No,0,,0.2836288153764497,0.7163711846235503
-1219-NNDDO,1,United States,California,Los Angeles,90015,"34.039224, -118.266293",34.039224,-118.266293,Female,No,No,No,9,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,76.85,663.55,No,0,,0.28377182185438254,0.7162281781456175
-5937-EORGB,1,United States,California,Five Points,93624,"36.397745, -120.119911",36.397745,-120.119911,Male,Yes,Yes,No,15,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,96.5,1392.25,No,0,,0.2840121538457314,0.7159878461542686
-4123-DVHPH,1,United States,California,Orinda,94563,"37.873916, -122.20522",37.873916,-122.20522,Male,No,Yes,No,9,Yes,Yes,Fiber optic,Yes,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,88.05,801.3,No,0,,0.2846305711643454,0.7153694288356546
-3295-YVUSR,1,United States,California,Glendale,91202,"34.167926, -118.267539",34.167926,-118.267539,Male,Yes,No,No,2,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,72.6,154.3,No,0,,0.2851736998873834,0.7148263001126166
-3030-YDNRM,1,United States,California,Pasadena,91107,"34.159007, -118.087353",34.159007,-118.087353,Male,No,No,No,8,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74.85,572.45,No,0,,0.2852516294805074,0.7147483705194926
-5429-LWCMV,1,United States,California,Gardena,90248,"33.876482, -118.284077",33.876482,-118.284077,Female,No,No,No,12,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,89.15,1057.55,No,0,,0.2862960493925708,0.7137039506074292
-3427-GGZZI,1,United States,California,Midpines,95345,"37.581496, -119.972762",37.581496,-119.972762,Female,No,Yes,No,19,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,89.1,1620.8,No,0,,0.286770320255314,0.713229679744686
-4884-ZTHVF,1,United States,California,Santa Cruz,95065,"37.031404, -121.981865",37.031404,-121.981865,Female,Yes,No,No,8,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,87.1,713.6,No,0,,0.28701275377676994,0.7129872462232301
-4559-UWIHT,1,United States,California,Atascadero,93422,"35.453912, -120.69461",35.453912,-120.69461,Male,No,Yes,No,14,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,82.65,1185,No,0,,0.2875198486942432,0.7124801513057568
-4395-PZMSN,1,United States,California,San Gregorio,94074,"37.331762, -122.341444",37.331762,-122.341444,Male,Yes,No,No,5,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,85.55,408.5,No,0,,0.2879200812894207,0.7120799187105793
-1640-PLFMP,1,United States,California,Los Angeles,90026,"34.078991, -118.263804",34.078991,-118.263804,Female,No,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.25,70.25,No,0,,0.28829349023783146,0.7117065097621685
-2985-FMWYF,1,United States,California,Myers Flat,95554,"40.267158, -123.805913",40.267158,-123.805913,Female,No,No,No,23,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,93.5,2341.55,No,0,,0.28910169837037336,0.7108983016296266
-7354-OIJLX,1,United States,California,Inglewood,90305,"33.958134, -118.330905",33.958134,-118.330905,Male,No,No,No,9,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75.85,724.65,No,0,,0.28965234947860474,0.7103476505213953
-5928-QLDHB,1,United States,California,San Fernando,91340,"34.286131, -118.435969",34.286131,-118.435969,Male,No,No,No,9,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,76.25,684.85,No,0,,0.29067182058992647,0.7093281794100735
-5382-SOYZL,1,United States,California,Concord,94519,"37.990118, -122.012188",37.990118,-122.012188,Male,No,No,No,22,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95.1,2162.6,No,0,,0.29123381632747813,0.7087661836725219
-4301-VVZKA,1,United States,California,San Francisco,94123,"37.800254, -122.436975",37.800254,-122.436975,Male,No,Yes,No,16,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75.4,1189.4,No,0,,0.2934905572822917,0.7065094427177083
-6507-ZJSUR,1,United States,California,Albion,95410,"39.225694, -123.717354",39.225694,-123.717354,Male,Yes,Yes,No,23,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,90.45,2117.25,No,0,,0.29525723926798975,0.7047427607320103
-7465-ZZRVX,1,United States,California,Ceres,95307,"37.553469, -120.952825",37.553469,-120.952825,Male,No,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.35,70.35,No,0,,0.2955143034277551,0.7044856965722449
-5542-TBBWB,1,United States,California,Lakeport,95453,"39.080469, -122.955176",39.080469,-122.955176,Male,No,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.9,69.9,No,0,,0.295799180337589,0.704200819662411
-4132-KALRO,1,United States,California,Davis Creek,96108,"41.750354, -120.403885",41.750354,-120.403885,Female,No,No,No,4,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,100.85,399.25,No,0,,0.29633049339884343,0.7036695066011566
-4482-EWFMI,1,United States,California,Arcadia,91006,"34.137319, -118.029837",34.137319,-118.029837,Female,No,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.7,135.2,No,0,,0.2964324245549893,0.7035675754450107
-7394-LWLYN,1,United States,California,Oakland,94610,"37.808731, -122.238708",37.808731,-122.238708,Female,No,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.15,123.8,No,0,,0.2965261792332001,0.7034738207667999
-6856-RAURS,1,United States,California,Rio Oso,95674,"38.954144, -121.482536",38.954144,-121.482536,Female,No,No,No,2,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,74.9,136.05,No,0,,0.2971372737769641,0.7028627262230359
-0644-OQMDK,1,United States,California,Merced,95348,"37.40122, -120.514191",37.40122,-120.514191,Male,Yes,No,No,4,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.65,293.85,No,0,,0.29779883668863827,0.7022011633113617
-1200-TUZHR,1,United States,California,Posey,93260,"35.861928, -118.636698",35.861928,-118.636698,Female,Yes,No,No,8,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,85.2,695.75,No,0,,0.298060911206266,0.701939088793734
-2665-NPTGL,1,United States,California,Sheep Ranch,95250,"38.244806, -120.417301",38.244806,-120.417301,Female,Yes,Yes,No,26,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),98.1,2510.7,No,0,,0.29909332605745487,0.7009066739425451
-7206-PQBBZ,1,United States,California,Fontana,92336,"34.136367, -117.460803",34.136367,-117.460803,Male,Yes,Yes,No,11,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.2,834.7,No,0,,0.2992458736756838,0.7007541263243162
-3317-VLGQT,1,United States,California,Wallace,95254,"38.192608, -120.957842",38.192608,-120.957842,Female,No,Yes,No,14,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,78.1,1122.4,No,0,,0.299309911970727,0.700690088029273
-8875-AKBYH,1,United States,California,Mineral,96063,"40.408796, -121.579609",40.408796,-121.579609,Male,Yes,No,No,20,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,84.35,1745.2,No,0,,0.2996198214113923,0.7003801785886077
-2688-BHGOG,1,United States,California,Olancha,93549,"36.296851, -117.865469",36.296851,-117.865469,Male,Yes,No,No,9,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,79.55,718.55,No,0,,0.2998993539000724,0.7001006460999276
-0928-JMXNP,1,United States,California,Los Molinos,96055,"40.059385, -122.091481",40.059385,-122.091481,Male,Yes,Yes,No,4,No,No phone service,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,29.9,118.25,No,0,,0.299900893270418,0.700099106729582
-6986-IXNDM,1,United States,California,Three Rivers,93271,"36.413433, -118.854708",36.413433,-118.854708,Male,No,No,No,14,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,92.9,1337.45,No,0,,0.30060916670655513,0.6993908332934449
-7392-YYPYJ,1,United States,California,Santa Ana,92706,"33.765893, -117.881533",33.765893,-117.881533,Male,No,No,No,22,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,100.65,2415.95,No,0,,0.30124472846310413,0.6987552715368959
-6851-WEFYX,1,United States,California,Descanso,91916,"32.912664, -116.635387",32.912664,-116.635387,Male,Yes,Yes,No,35,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,100.8,3437.5,No,0,,0.3015836654606343,0.6984163345393657
-9633-XQABV,1,United States,California,Los Banos,93635,"36.995162, -120.955099",36.995162,-120.955099,Female,No,No,No,3,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.25,229.7,No,0,,0.30307231893604925,0.6969276810639508
-3338-CVVEH,1,United States,California,Chula Vista,91913,"32.64164, -116.985026",32.64164,-116.985026,Male,No,No,No,12,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,94.55,1173.55,No,0,,0.3031254010857074,0.6968745989142926
-9717-QEBGU,1,United States,California,Leggett,95585,"39.873371, -123.741474",39.873371,-123.741474,Male,No,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.3,144,No,0,,0.30318294358094555,0.6968170564190544
-2897-DOVND,1,United States,California,Winterhaven,92283,"32.852947, -114.850784",32.852947,-114.850784,Male,No,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.8,146.65,No,0,,0.30340203989184134,0.6965979601081587
-7402-EYFXX,1,United States,California,Salyer,95563,"40.89866, -123.539754",40.89866,-123.539754,Male,Yes,No,No,26,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,93.6,2404.1,No,0,,0.3040048556238809,0.6959951443761191
-7245-NIIWQ,1,United States,California,Fellows,93224,"35.215731, -119.57013",35.215731,-119.57013,Female,No,No,No,3,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.85,199.85,No,0,,0.3042845798505255,0.6957154201494745
-6077-BDPXA,1,United States,California,Merced,95340,"37.255637, -120.493537",37.255637,-120.493537,Female,No,No,No,3,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.15,194.2,No,0,,0.30428470278880815,0.6957152972111919
-6116-RFVHN,1,United States,California,Roseville,95747,"38.784329, -121.373245",38.784329,-121.373245,Female,No,Yes,No,34,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,100.45,3414.65,No,0,,0.30551851788451023,0.6944814821154898
-8313-NDOIA,1,United States,California,Green Valley Lake,92341,"34.244411, -117.072654",34.244411,-117.072654,Female,No,No,No,24,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,104.15,2494.65,No,0,,0.30586068791083365,0.6941393120891663
-2081-VEYEH,1,United States,California,Compton,90221,"33.885811, -118.206459",33.885811,-118.206459,Male,No,No,No,3,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,107.95,318.6,No,0,,0.30635049371457224,0.6936495062854278
-9360-OMDZZ,1,United States,California,Herald,95638,"38.313447, -121.123886",38.313447,-121.123886,Male,No,No,No,24,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,94.1,2322.85,No,0,,0.3066859245694047,0.6933140754305953
-1251-STYSZ,1,United States,California,Glenhaven,95443,"39.045246, -122.743181",39.045246,-122.743181,Female,Yes,No,No,4,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,80.25,303.7,No,0,,0.3077900921355178,0.6922099078644822
-2254-DLXRI,1,United States,California,Burbank,91504,"34.213049, -118.317651",34.213049,-118.317651,Female,No,No,No,1,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,79.15,79.15,No,0,,0.30803443248316764,0.6919655675168324
-1078-TDCRN,1,United States,California,Agoura Hills,91301,"34.129058, -118.759788",34.129058,-118.759788,Female,Yes,Yes,No,3,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,30.75,82.85,No,0,,0.30817480108655426,0.6918251989134457
-0722-SVSFK,1,United States,California,Half Moon Bay,94019,"37.45567, -122.407992",37.45567,-122.407992,Female,No,No,No,7,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,100.4,715,No,0,,0.3092738383300935,0.6907261616699065
-3629-ZNKXA,1,United States,California,Seiad Valley,96086,"41.924174, -123.260788",41.924174,-123.260788,Male,Yes,No,No,17,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,101.8,1752.45,No,0,,0.3098266700776715,0.6901733299223285
-6407-UTSLV,1,United States,California,Compton,90222,"33.912246, -118.236773",33.912246,-118.236773,Female,Yes,No,No,2,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),83.8,163.7,No,0,,0.3101377927240748,0.6898622072759252
-7590-VHVEG,1,United States,California,Los Angeles,90001,"33.973616, -118.24902",33.973616,-118.24902,Female,No,Yes,No,1,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,29.85,29.85,No,0,,0.3108137599148493,0.6891862400851507
-9903-LYSAB,1,United States,California,Studio City,91604,"34.139082, -118.39275",34.139082,-118.39275,Male,No,Yes,No,18,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,73.15,1305.95,No,0,,0.3112161030027144,0.6887838969972856
-5119-NZPTV,1,United States,California,Sacramento,95823,"38.475465, -121.443625",38.475465,-121.443625,Male,Yes,Yes,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,70.1,141.65,No,0,,0.3115392386351674,0.6884607613648326
-9121-PHQSR,1,United States,California,Stratford,93266,"36.175255, -119.813805",36.175255,-119.813805,Male,Yes,Yes,No,16,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),85.05,1391.15,No,0,,0.3122367593728199,0.6877632406271801
-4445-ZJNMU,1,United States,California,Manhattan Beach,90266,"33.889632, -118.39737",33.889632,-118.39737,Male,No,No,No,9,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),99.3,918.75,No,0,,0.3133078759397896,0.6866921240602104
-4566-NECEV,1,United States,California,Palos Verdes Peninsula,90274,"33.788208, -118.404955",33.788208,-118.404955,Male,No,No,No,5,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,No,Electronic check,96.55,500.1,No,0,,0.3135784078406446,0.6864215921593554
-3411-WLRSQ,1,United States,California,Los Angeles,90038,"34.088017, -118.327168",34.088017,-118.327168,Female,Yes,Yes,No,3,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),74.6,239.05,No,0,,0.31358502231366436,0.6864149776863356
-5701-YVSVF,1,United States,California,Fallbrook,92028,"33.362575, -117.299644",33.362575,-117.299644,Female,Yes,Yes,No,11,Yes,No,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,82.9,880.05,No,0,,0.3151734013987747,0.6848265986012253
-5288-AHOUP,1,United States,California,Palm Desert,92260,"33.694501, -116.412711",33.694501,-116.412711,Male,Yes,No,No,11,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,78.5,874.2,No,0,,0.31579009803158586,0.6842099019684141
-5760-IFJOZ,1,United States,California,Richgrove,93261,"35.809921, -119.127437",35.809921,-119.127437,Male,No,No,No,3,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,No,Mailed check,107.95,313.6,No,0,,0.31655826867751935,0.6834417313224807
-2984-AFWNC,1,United States,California,Rough And Ready,95975,"39.225634, -121.156163",39.225634,-121.156163,Female,No,No,No,3,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,No,Electronic check,95.4,293.15,No,0,,0.3169455518626817,0.6830544481373183
-3370-HXOPH,1,United States,California,Mountain View,94041,"37.388349, -122.075299",37.388349,-122.075299,Female,No,No,No,3,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,76.1,257.6,No,0,,0.31715453967805307,0.6828454603219469
-4521-YEEHE,1,United States,California,Anaheim,92805,"33.830209, -117.906099",33.830209,-117.906099,Female,No,Yes,No,18,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,88.85,1594.75,No,0,,0.31743382553838084,0.6825661744616192
-6435-SRWBJ,1,United States,California,Los Angeles,90068,"34.137411, -118.328915",34.137411,-118.328915,Female,No,No,No,5,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,82.75,417.75,No,0,,0.31870964162571047,0.6812903583742895
-4815-GBTCD,1,United States,California,Wishon,93669,"37.287758, -119.548156",37.287758,-119.548156,Female,No,Yes,No,4,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,25.15,99.95,No,0,,0.32011268797955206,0.6798873120204479
-6030-REHUX,1,United States,California,Fountain Valley,92708,"33.712036, -117.950113",33.712036,-117.950113,Female,Yes,Yes,No,28,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,110.85,3204.4,No,0,,0.32150169688385655,0.6784983031161435
-9279-CJEOJ,1,United States,California,Anaheim,92801,"33.844983, -117.952151",33.844983,-117.952151,Female,Yes,No,No,21,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),95.4,2025.1,No,0,,0.3216292233266935,0.6783707766733065
-4770-UEZOX,1,United States,California,Whitethorn,95589,"40.053159, -123.995867",40.053159,-123.995867,Male,No,No,No,2,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,74.75,144.8,No,0,,0.32251127605974783,0.6774887239402522
-6215-NQCPY,1,United States,California,Yreka,96097,"41.764869, -122.671316",41.764869,-122.671316,Male,No,No,No,15,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,99.7,1566.75,No,0,,0.3230723789600124,0.6769276210399876
-2107-FBPTK,1,United States,California,Ramona,92065,"33.044541, -116.833922",33.044541,-116.833922,Female,Yes,No,No,30,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,104.1,3121.1,No,0,,0.3260208438759715,0.6739791561240285
-7823-JSOAG,1,United States,California,Sonoma,95476,"38.25485, -122.461799",38.25485,-122.461799,Male,No,No,No,3,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,74.5,217.45,No,0,,0.32720296841310503,0.672797031586895
-8325-QRPZR,1,United States,California,Benicia,94510,"38.113533, -122.11926",38.113533,-122.11926,Female,No,No,No,7,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,75.15,525,No,0,,0.3279512367686732,0.6720487632313268
-2754-SDJRD,1,United States,California,Somis,93066,"34.297628, -119.014627",34.297628,-119.014627,Female,Yes,No,No,8,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),100.15,908.55,No,0,,0.3282747044796418,0.6717252955203582
-0793-TWELN,1,United States,California,Los Angeles,90026,"34.078991, -118.263804",34.078991,-118.263804,Female,No,No,No,4,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,80.15,319.85,No,0,,0.3283613334971752,0.6716386665028248
-6705-LXORM,1,United States,California,Perris,92570,"33.787298, -117.320676",33.787298,-117.320676,Female,Yes,Yes,No,5,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,70.05,302.6,No,0,,0.329694706542047,0.670305293457953
-4633-MKHYU,1,United States,California,San Diego,92109,"32.787836, -117.232376",32.787836,-117.232376,Female,No,No,No,9,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,88.4,788.6,No,0,,0.32988390291655667,0.6701160970834433
-8873-GLDMH,1,United States,California,Courtland,95615,"38.311609, -121.554034",38.311609,-121.554034,Female,No,No,No,6,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,73.85,401.3,No,0,,0.33009507687649675,0.6699049231235032
-2674-MIAHT,1,United States,California,Blocksburg,95514,"40.309088, -123.668201",40.309088,-123.668201,Female,No,No,No,4,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,80.3,324.2,No,0,,0.3302442171285406,0.6697557828714594
-1016-DJTSV,1,United States,California,Santee,92071,"32.847336, -116.997605",32.847336,-116.997605,Male,Yes,No,No,8,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.7,572.85,No,0,,0.3302649512590283,0.6697350487409717
-3420-YJLQT,1,United States,California,Alturas,96101,"41.468877, -120.54229",41.468877,-120.54229,Female,No,No,No,2,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,79.55,151.75,No,0,,0.33061171203920503,0.669388287960795
-1508-DFXCU,1,United States,California,Riverside,92501,"33.994676, -117.372498",33.994676,-117.372498,Male,No,No,No,12,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,81.45,912,No,0,,0.33097038971950343,0.6690296102804966
-6267-DCFFZ,1,United States,California,Madeline,96119,"41.042003, -120.506086",41.042003,-120.506086,Female,Yes,Yes,No,30,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,90.05,2627.2,No,0,,0.331487024619441,0.668512975380559
-5117-IFGPS,1,United States,California,Tahoe City,96145,"39.178337, -120.162806",39.178337,-120.162806,Male,Yes,Yes,No,29,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,84.3,2357.75,No,0,,0.332289228982543,0.667710771017457
-6198-ZFIOJ,1,United States,California,Willits,95490,"39.492046, -123.375818",39.492046,-123.375818,Female,No,No,No,5,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,75.6,402.5,No,0,,0.3335376058948023,0.6664623941051977
-8309-IEYJD,1,United States,California,Indian Wells,92210,"33.537646, -116.291089",33.537646,-116.291089,Female,Yes,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,70.6,70.6,No,0,,0.3341520106162006,0.6658479893837994
-2439-LYPMQ,1,United States,California,Milford,96121,"40.181279, -120.392967",40.181279,-120.392967,Male,Yes,Yes,No,38,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,102.6,4009.2,No,0,,0.3347897891066587,0.6652102108933413
-3904-UKFRE,1,United States,California,Stockton,95205,"37.965695, -121.260051",37.965695,-121.260051,Male,No,No,No,4,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,80.1,336.15,No,0,,0.3356541103318549,0.6643458896681451
-3453-RTHJQ,1,United States,California,San Bernardino,92407,"34.250069, -117.393949",34.250069,-117.393949,Male,No,No,No,6,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.1,435,No,0,,0.33570565130760144,0.6642943486923986
-5216-WASFJ,1,United States,California,Challenge,95925,"39.461768, -121.195825",39.461768,-121.195825,Female,Yes,Yes,No,31,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,84.85,2633.4,No,0,,0.33592157849776194,0.6640784215022381
-1475-VWVDO,1,United States,California,Dos Palos,93620,"37.045728, -120.630682",37.045728,-120.630682,Male,No,No,No,7,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,74.9,490.55,No,0,,0.3371053116987839,0.6628946883012161
-3841-CONLJ,1,United States,California,Morro Bay,93442,"35.369553, -120.763864",35.369553,-120.763864,Female,No,Yes,No,1,No,No phone service,DSL,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,35.0,35,No,0,,0.33809786813848286,0.6619021318615171
-2905-KFQUV,1,United States,California,Moss Beach,94038,"37.515556, -122.502311",37.515556,-122.502311,Female,No,Yes,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),70.4,154.8,No,0,,0.3381916834228218,0.6618083165771782
-0396-YCHWO,1,United States,California,Sacramento,95829,"38.486502, -121.334051",38.486502,-121.334051,Male,No,Yes,No,36,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95.4,3474.2,No,0,,0.33875314689357805,0.661246853106422
-2809-ZMYOQ,1,United States,California,Camptonville,95922,"39.432127, -121.099287",39.432127,-121.099287,Female,No,No,No,32,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,101.35,3334.9,No,0,,0.3404015389601369,0.6595984610398631
-0411-EZJZE,1,United States,California,Stockton,95215,"37.946282, -121.139499",37.946282,-121.139499,Female,No,No,No,3,Yes,Yes,DSL,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,60.25,170.5,No,0,,0.34269006644167066,0.6573099335583293
-4291-SHSBH,1,United States,California,Modesto,95354,"37.639029, -120.964772",37.639029,-120.964772,Male,No,No,No,7,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.55,521.35,No,0,,0.34314335515544614,0.6568566448445539
-1104-TNLZA,1,United States,California,Klamath River,96050,"41.816595, -122.948287",41.816595,-122.948287,Male,Yes,Yes,No,28,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,105.8,2998,No,0,,0.3431649643053096,0.6568350356946904
-0848-ZGQIJ,1,United States,California,Saratoga,95070,"37.257772, -122.051824",37.257772,-122.051824,Female,No,Yes,No,16,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),94.65,1461.15,No,0,,0.34346569349697276,0.6565343065030272
-9696-RMYBA,1,United States,California,Los Angeles,90003,"33.964131, -118.272783",33.964131,-118.272783,Male,No,No,No,5,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Mailed check,80.1,398.55,No,0,,0.3446081491354316,0.6553918508645684
-0928-XUTSN,1,United States,California,Brawley,92227,"33.03933, -115.191857",33.03933,-115.191857,Female,No,No,No,13,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,80.5,1011.8,No,0,,0.3446096409490501,0.6553903590509499
-5628-FCGYG,1,United States,California,Riverside,92509,"34.004379, -117.447864",34.004379,-117.447864,Male,No,No,No,21,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,84.1,1737.45,No,0,,0.34493919246815785,0.6550608075318421
-5399-ZIMKF,1,United States,California,San Simeon,93452,"35.746484, -121.223355",35.746484,-121.223355,Male,No,No,No,5,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,74.65,383.65,No,0,,0.3462754118367297,0.6537245881632703
-1028-FFNJK,1,United States,California,Burbank,91504,"34.213049, -118.317651",34.213049,-118.317651,Male,Yes,Yes,No,30,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,101.5,2917.65,No,0,,0.3470677449569528,0.6529322550430472
-8266-VBFQL,1,United States,California,Jamul,91935,"32.695681, -116.798386",32.695681,-116.798386,Male,No,No,No,4,Yes,No,Fiber optic,No,No,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,90.4,356.65,No,0,,0.3477824033248791,0.6522175966751209
-3496-LFSZU,1,United States,California,Anaheim,92801,"33.844983, -117.952151",33.844983,-117.952151,Male,No,Yes,No,4,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,70.5,294.2,No,0,,0.34864529266290323,0.6513547073370968
-5091-HFAZW,1,United States,California,Santa Fe Springs,90670,"33.933565, -118.062611",33.933565,-118.062611,Female,No,No,No,2,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,91.15,168.5,No,0,,0.3494058115223029,0.6505941884776971
-5044-LRQAQ,1,United States,California,Ladera Ranch,92694,"33.569186, -117.640055",33.569186,-117.640055,Female,No,Yes,No,7,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),69.2,477.55,No,0,,0.34992107497418656,0.6500789250258134
-8648-PFRMP,1,United States,California,Ferndale,95536,"40.4785, -124.301372",40.4785,-124.301372,Female,Yes,No,No,14,No,No phone service,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,46.35,672.7,No,0,,0.35131523648798535,0.6486847635120147
-6339-YPSAH,1,United States,California,Tehama,96090,"40.021787, -122.127576",40.021787,-122.127576,Male,No,No,No,9,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,73.8,704.3,No,0,,0.35196857055726405,0.648031429442736
-6918-UMQCG,1,United States,California,Orange,92869,"33.792791, -117.789749",33.792791,-117.789749,Female,No,No,No,5,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Electronic check,80.2,384.25,No,0,,0.35258815861046877,0.6474118413895312
-7365-BVCJH,1,United States,California,Trinity Center,96091,"41.081847, -122.700545",41.081847,-122.700545,Male,No,No,No,1,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,24.4,24.4,No,0,,0.35389502750537283,0.6461049724946272
-7517-LDMPS,1,United States,California,Modesto,95356,"37.716186, -121.025836",37.716186,-121.025836,Female,No,No,No,12,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,84.6,1017.35,No,0,,0.35427020499785344,0.6457297950021466
-4059-IIEBK,1,United States,California,Ojai,93023,"34.581308, -118.931948",34.581308,-118.931948,Female,No,No,No,7,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),78.55,522.95,No,0,,0.35461550501338623,0.6453844949866138
-9208-OLGAQ,1,United States,California,Berkeley,94709,"37.878554, -122.26609",37.878554,-122.26609,Female,Yes,No,No,18,Yes,No,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,84.95,1443.65,No,0,,0.35513190311640297,0.644868096883597
-2135-DQWAQ,1,United States,California,Santa Barbara,93111,"34.460197, -119.802602",34.460197,-119.802602,Female,No,No,No,5,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Mailed check,85.3,420.45,No,0,,0.3558242626643464,0.6441757373356536
-7801-KICAO,1,United States,California,Pasadena,91103,"34.167465, -118.165327",34.167465,-118.165327,Female,No,No,No,18,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74.15,1345.75,No,0,,0.3558957607637574,0.6441042392362426
-5032-MIYKT,1,United States,California,Weott,95571,"40.310119, -123.909449",40.310119,-123.909449,Female,No,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,70.7,70.7,No,0,,0.3560119879597423,0.6439880120402577
-0674-DGMAQ,1,United States,California,Elk,95432,"39.108252, -123.645121",39.108252,-123.645121,Male,Yes,Yes,No,32,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,93.5,2970.8,No,0,,0.35696337690834967,0.6430366230916503
-1226-IENZN,1,United States,California,Los Angeles,90024,"34.066303, -118.435479",34.066303,-118.435479,Male,Yes,No,No,16,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,78.75,1218.25,No,0,,0.3570715567953071,0.6429284432046929
-3951-NJCVI,1,United States,California,Cathedral City,92234,"33.829583, -116.474131",33.829583,-116.474131,Female,Yes,Yes,No,42,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95.05,3944.5,No,0,,0.35755893942556327,0.6424410605744367
-1754-GKYPY,1,United States,California,Carson,90746,"33.859171, -118.252272",33.859171,-118.252272,Male,Yes,Yes,No,22,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),89.75,1938.9,No,0,,0.3576827826620127,0.6423172173379873
-8035-PWSEV,1,United States,California,Hayward,94542,"37.656695, -122.048361",37.656695,-122.048361,Female,No,No,No,6,Yes,No,Fiber optic,No,No,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,89.25,487.05,No,0,,0.35771639014572243,0.6422836098542776
-4583-PARNH,1,United States,California,Kerman,93630,"36.727418, -120.123526",36.727418,-120.123526,Male,Yes,Yes,No,16,Yes,No,Fiber optic,No,No,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,91.55,1540.05,No,0,,0.3581197775084679,0.6418802224915321
-2038-OEQZH,1,United States,California,Menifee,92584,"33.653338, -117.178271",33.653338,-117.178271,Male,No,No,No,4,Yes,No,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,No,Electronic check,86.05,308.1,No,0,,0.358822114030524,0.641177885969476
-5652-MSDEY,1,United States,California,Sutter Creek,95685,"38.432145, -120.77069",38.432145,-120.77069,Female,No,No,No,10,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,75.75,777.3,No,0,,0.35892234706953885,0.6410776529304612
-6496-JDSSB,1,United States,California,Oak Park,91377,"34.19225, -118.776874",34.19225,-118.776874,Female,No,No,No,8,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),80.0,624.6,No,0,,0.3592210492630461,0.6407789507369539
-4647-MUZON,1,United States,California,Port Hueneme,93041,"34.110124, -119.100972",34.110124,-119.100972,Female,No,Yes,No,18,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),95.95,1745.5,No,0,,0.35931493289153604,0.640685067108464
-7176-WIONM,1,United States,California,Bishop,93514,"37.04584, -118.397236",37.04584,-118.397236,Female,No,Yes,No,12,No,No phone service,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),49.85,617.15,No,0,,0.36078348709281405,0.639216512907186
-4854-CIDCF,1,United States,California,Los Angeles,90065,"34.108833, -118.229715",34.108833,-118.229715,Female,Yes,No,No,3,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,73.85,196.4,No,0,,0.36114115502345323,0.6388588449765468
-8270-RKSAP,1,United States,California,Anaheim,92801,"33.844983, -117.952151",33.844983,-117.952151,Male,No,No,No,9,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.5,597.9,No,0,,0.3616133407868066,0.6383866592131934
-5599-HVLTW,1,United States,California,Oakland,94609,"37.834341, -122.26437",37.834341,-122.26437,Female,Yes,No,No,14,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),80.35,1058.1,No,0,,0.3616495323087944,0.6383504676912056
-9617-INGJY,1,United States,California,Manhattan Beach,90266,"33.889632, -118.39737",33.889632,-118.39737,Male,No,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,70.6,70.6,No,0,,0.36420207967106544,0.6357979203289346
-5043-TRZWM,1,United States,California,Los Angeles,90022,"34.02381, -118.156582",34.02381,-118.156582,Female,No,No,No,1,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,75.55,75.55,No,0,,0.3646669525696059,0.6353330474303941
-2504-DSHIH,1,United States,California,Thousand Oaks,91360,"34.214054, -118.88109",34.214054,-118.88109,Male,Yes,Yes,No,23,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,86.8,1975.85,No,0,,0.3654073388826502,0.6345926611173498
-2800-VEQXM,1,United States,California,Lebec,93243,"34.845861, -118.885163",34.845861,-118.885163,Female,No,No,No,3,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,74.75,238.1,No,0,,0.3656711150466172,0.6343288849533828
-8714-CTZJW,1,United States,California,Pilot Hill,95664,"38.803731, -121.043799",38.803731,-121.043799,Female,No,No,No,4,Yes,No,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Credit card (automatic),82.85,319.6,No,0,,0.3668840536030109,0.6331159463969891
-6242-MBHPK,1,United States,California,Hathaway Pines,95233,"38.184914, -120.364085",38.184914,-120.364085,Female,Yes,Yes,No,23,Yes,No,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95.1,2326.05,No,0,,0.3670113603985673,0.6329886396014327
-5339-PXDVH,1,United States,California,Clipper Mills,95930,"39.562239, -121.14836",39.562239,-121.14836,Male,No,No,No,4,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,No,Month-to-month,No,Electronic check,90.65,367.95,No,0,,0.36911142317229206,0.6308885768277079
-0258-NOKBL,1,United States,California,Fortuna,95540,"40.584991, -124.121504",40.584991,-124.121504,Male,No,No,No,3,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,No,Electronic check,90.4,268.45,No,0,,0.3701037391068638,0.6298962608931362
-2969-QWUBZ,1,United States,California,Los Altos,94022,"37.349546, -122.134356",37.349546,-122.134356,Female,No,No,No,2,No,No phone service,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,No,Electronic check,51.4,96.8,No,0,,0.37020608768313024,0.6297939123168698
-7714-YXSMB,1,United States,California,Irvine,92612,"33.643095, -117.810896",33.643095,-117.810896,Female,No,No,No,26,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),100.5,2599.95,No,0,,0.3705789542056801,0.6294210457943199
-0420-HLGXF,1,United States,California,Visalia,93291,"36.391777, -119.372842",36.391777,-119.372842,Female,Yes,No,No,39,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,99.75,4036,No,0,,0.3711096319570565,0.6288903680429435
-4716-HHKQH,1,United States,California,Pomona,91767,"34.083086, -117.737997",34.083086,-117.737997,Male,Yes,Yes,No,20,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,No,Electronic check,107.05,2172.05,No,0,,0.3712027183698354,0.6287972816301646
-9741-YLNTD,1,United States,California,Greenfield,93927,"36.248708, -121.386617",36.248708,-121.386617,Male,No,No,No,6,Yes,Yes,Fiber optic,No,No,No,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),87.95,522.35,No,0,,0.37134358251288124,0.6286564174871188
-2262-SLNVK,1,United States,California,Birds Landing,94512,"38.140719, -121.838298",38.140719,-121.838298,Female,No,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,70.1,70.1,No,0,,0.37228814047989134,0.6277118595201087
-4299-SIMNS,1,United States,California,Temple City,91780,"34.101608, -118.055848",34.101608,-118.055848,Male,No,No,No,9,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,81.15,784.45,No,0,,0.373804295613802,0.626195704386198
-3420-ZDBMA,1,United States,California,Brea,92821,"33.930199, -117.862898",33.930199,-117.862898,Male,Yes,No,No,5,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,71.45,371.6,No,0,,0.37472924805725616,0.6252707519427438
-4612-SSVHJ,1,United States,California,Yermo,92398,"35.013299, -116.834092",35.013299,-116.834092,Female,Yes,No,No,20,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,81.45,1671.6,No,0,,0.37524057168195324,0.6247594283180468
-6923-JHPMP,1,United States,California,Templeton,93465,"35.536115, -120.739231",35.536115,-120.739231,Female,No,No,No,2,Yes,No,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,80.45,137.1,No,0,,0.37607593474893686,0.6239240652510631
-5405-ZMYXQ,1,United States,California,Los Angeles,90019,"34.049841, -118.33846",34.049841,-118.33846,Female,No,No,No,8,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),74.6,548.9,No,0,,0.37612965641388474,0.6238703435861153
-9050-IKDZA,1,United States,California,Clovis,93611,"36.917652, -119.593757",36.917652,-119.593757,Female,Yes,No,No,2,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Mailed check,81.5,162.55,No,0,,0.37629732851535547,0.6237026714846445
-0432-CAJZV,1,United States,California,Onyx,93255,"35.676978, -118.101378",35.676978,-118.101378,Male,No,No,No,3,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Mailed check,90.7,237.65,No,0,,0.37728540969208524,0.6227145903079148
-8132-YPVBX,1,United States,California,Salinas,93907,"36.77462, -121.664714",36.77462,-121.664714,Female,No,No,No,6,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Mailed check,85.95,514.6,No,0,,0.37729015370405994,0.6227098462959401
-0749-IRGQE,1,United States,California,Buena Park,90621,"33.874224, -117.993368",33.874224,-117.993368,Female,Yes,Yes,No,13,No,No phone service,DSL,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,45.3,528.45,No,0,,0.37743391404836935,0.6225660859516307
-0248-IPDFW,1,United States,California,Lake Elsinore,92530,"33.655421, -117.391751",33.655421,-117.391751,Female,No,No,No,1,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,50.1,50.1,No,0,,0.3774935780575879,0.6225064219424121
-0225-ZORZP,1,United States,California,Groveland,95321,"37.902968, -119.667544",37.902968,-119.667544,Male,No,No,No,3,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,No,Electronic check,84.3,235.05,No,0,,0.3792207809603986,0.6207792190396014
-1666-JXLKU,1,United States,California,Shingle Springs,95682,"38.598936, -120.963092",38.598936,-120.963092,Female,No,No,No,37,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,100.05,3810.55,No,0,,0.37939300404588994,0.6206069959541101
-8709-KRDVL,1,United States,California,Scott Bar,96085,"41.737962, -123.07557",41.737962,-123.07557,Female,No,No,No,33,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,100.0,3320.6,No,0,,0.38021977021703746,0.6197802297829625
-0139-IVFJG,1,United States,California,Inyokern,93527,"36.041315, -118.188235",36.041315,-118.188235,Female,No,Yes,No,2,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,No,Electronic check,90.35,190.5,No,0,,0.3805186062159569,0.6194813937840431
-1932-UEDCX,1,United States,California,Manchester,95459,"38.966713, -123.586412",38.966713,-123.586412,Male,Yes,Yes,No,33,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),100.6,3270.25,No,0,,0.3806015054814543,0.6193984945185457
-5442-BHQNG,1,United States,California,Brooks,95606,"38.809804, -122.241383",38.809804,-122.241383,Female,No,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,70.35,139.25,No,0,,0.38083050918800976,0.6191694908119902
-4029-HPFVY,1,United States,California,San Francisco,94118,"37.781304, -122.461522",37.781304,-122.461522,Male,No,No,No,3,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,70.3,220.4,No,0,,0.38134354711711227,0.6186564528828877
-1751-NCDLI,1,United States,California,Castroville,95012,"36.784481, -121.759054",36.784481,-121.759054,Male,Yes,Yes,No,46,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,98.85,4564.9,No,0,,0.3817380422147194,0.6182619577852806
-4983-CCWMC,1,United States,California,Creston,93432,"35.480896, -120.469476",35.480896,-120.469476,Male,No,No,No,3,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,69.6,207.4,No,0,,0.3822911012224359,0.6177088987775641
-5879-SESNB,1,United States,California,Moraga,94556,"37.827946, -122.107185",37.827946,-122.107185,Female,No,No,No,11,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,75.25,888.65,No,0,,0.38237376735536543,0.6176262326446346
-8404-GFGCZ,1,United States,California,Millville,96062,"40.531257, -122.148139",40.531257,-122.148139,Male,No,Yes,No,4,Yes,Yes,DSL,No,No,Yes,No,Yes,No,Month-to-month,No,Electronic check,65.6,250.1,No,0,,0.38299863279381174,0.6170013672061883
-9494-MRNYX,1,United States,California,Meadow Valley,95956,"39.937017, -121.058043",39.937017,-121.058043,Male,No,No,No,10,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,75.05,786.3,No,0,,0.3832713617303545,0.6167286382696455
-0196-JTUQI,1,United States,California,Clarksburg,95612,"38.384648, -121.578701",38.384648,-121.578701,Female,No,No,No,9,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),75.2,633.85,No,0,,0.383893704885673,0.616106295114327
-4480-QQRHC,1,United States,California,Hydesville,95547,"40.557314, -124.081662",40.557314,-124.081662,Female,Yes,No,No,8,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),74.05,600.15,No,0,,0.38408067245464683,0.6159193275453532
-7315-WYOAW,1,United States,California,Santa Monica,90405,"34.005439, -118.477507",34.005439,-118.477507,Male,No,No,No,13,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,No,Electronic check,100.75,1313.25,No,0,,0.3842454642794866,0.6157545357205134
-3223-DWFIO,1,United States,California,Forks Of Salmon,96031,"41.232128, -123.194748",41.232128,-123.194748,Male,Yes,No,No,4,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,69.35,261.65,No,0,,0.38502035734886597,0.614979642651134
-3365-SAIGS,1,United States,California,Rancho Santa Fe,92067,"33.012751, -117.200617",33.012751,-117.200617,Female,No,No,No,17,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,83.55,1329.15,No,0,,0.38518408822441785,0.6148159117755821
-2740-TVLFN,1,United States,California,Manteca,95337,"37.750822, -121.238423",37.750822,-121.238423,Male,No,No,No,1,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,50.15,50.15,No,0,,0.38577368076018403,0.614226319239816
-5989-PGKJB,1,United States,California,San Diego,92121,"32.898613, -117.202937",32.898613,-117.202937,Female,No,No,No,16,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,86.25,1340.1,No,0,,0.3861032725882422,0.6138967274117578
-5453-AXEPF,1,United States,California,San Jose,95134,"37.42765, -121.945416",37.42765,-121.945416,Male,No,Yes,No,17,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),80.5,1336.9,No,0,,0.38643354643312045,0.6135664535668796
-7422-WNBTY,1,United States,California,Green Valley Lake,92341,"34.244411, -117.072654",34.244411,-117.072654,Male,No,Yes,No,33,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,93.35,3092,No,0,,0.3865221880622791,0.6134778119377209
-2761-XECQW,1,United States,California,Glenhaven,95443,"39.045246, -122.743181",39.045246,-122.743181,Male,Yes,Yes,No,8,No,No phone service,DSL,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Mailed check,43.35,371.4,No,0,,0.38768700200182504,0.612312997998175
-3597-MVHJT,1,United States,California,Brawley,92227,"33.03933, -115.191857",33.03933,-115.191857,Female,No,No,No,27,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),95.6,2595.25,No,0,,0.389130443540465,0.610869556459535
-1636-NTNCO,1,United States,California,Valley Village,91607,"34.165783, -118.399795",34.165783,-118.399795,Male,Yes,No,No,4,No,No phone service,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),50.95,207.35,No,0,,0.3891866508358578,0.6108133491641422
-0491-KAPQG,1,United States,California,Pine Valley,91962,"32.800671, -116.483363",32.800671,-116.483363,Male,No,No,No,21,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,73.7,1558.7,No,0,,0.3902653292777516,0.6097346707222484
-2325-NBPZG,1,United States,California,Novato,94949,"38.067204, -122.524004",38.067204,-122.524004,Female,No,No,No,3,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,74.55,233.65,No,0,,0.39171354865452634,0.6082864513454737
-5233-AOZUF,1,United States,California,Palm Springs,92262,"33.839989, -116.659215",33.839989,-116.659215,Female,No,Yes,No,29,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74.95,2149.05,No,0,,0.39190539817244996,0.60809460182755
-0447-RXSGD,1,United States,California,Monterey,93940,"36.362741, -121.869685",36.362741,-121.869685,Male,No,No,No,24,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),99.65,2404.85,No,0,,0.39210668903026613,0.6078933109697339
-8104-OSKWT,1,United States,California,Anaheim,92804,"33.818, -117.974404",33.818,-117.974404,Female,No,No,No,12,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,79.8,1001.2,No,0,,0.39236796509985183,0.6076320349001482
-8356-WUAOJ,1,United States,California,Glendale,91205,"34.13658, -118.245839",34.13658,-118.245839,Female,No,Yes,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,45.0,45,No,0,,0.3926173117452787,0.6073826882547213
-3703-KBKZP,1,United States,California,Standish,96128,"40.346634, -120.386422",40.346634,-120.386422,Male,Yes,No,No,16,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),74.45,1261.35,No,0,,0.39281408137499496,0.607185918625005
-6833-JMZYP,1,United States,California,Hesperia,92345,"34.361387, -117.337509",34.361387,-117.337509,Female,No,No,No,15,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),94.0,1505.45,No,0,,0.3932688786761783,0.6067311213238217
-2041-JIJCI,1,United States,California,Wendel,96136,"40.345949, -120.081187",40.345949,-120.081187,Female,No,No,No,5,Yes,Yes,DSL,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,64.0,370.25,No,0,,0.393317175628069,0.606682824371931
-9840-EFJQB,1,United States,California,Sylmar,91342,"34.321621, -118.399841",34.321621,-118.399841,Female,No,No,No,1,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,74.35,74.35,No,0,,0.3935454475556176,0.6064545524443824
-9506-UXUSK,1,United States,California,San Jose,95116,"37.350284, -121.852855",37.350284,-121.852855,Male,No,No,No,13,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.15,931.75,No,0,,0.3946760526028902,0.6053239473971098
-1658-TJVOA,1,United States,California,Cazadero,95421,"38.578807, -123.19338",38.578807,-123.19338,Female,Yes,No,No,6,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,74.1,450.9,No,0,,0.3950717548294951,0.6049282451705049
-9572-WUKSB,1,United States,California,South Pasadena,91030,"34.110444, -118.156957",34.110444,-118.156957,Male,No,Yes,No,3,No,No phone service,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,29.9,92.25,No,0,,0.3951390007343154,0.6048609992656846
-0899-LIIBW,1,United States,California,Forks Of Salmon,96031,"41.232128, -123.194748",41.232128,-123.194748,Male,No,Yes,No,34,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,100.85,3527.3,No,0,,0.39567233578128735,0.6043276642187126
-0581-BXBUB,1,United States,California,Penn Valley,95946,"39.203817, -121.19584",39.203817,-121.19584,Female,Yes,No,No,4,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,72.75,317.75,No,0,,0.39674368476995525,0.6032563152300447
-0674-EYYZV,1,United States,California,Los Angeles,90065,"34.108833, -118.229715",34.108833,-118.229715,Female,No,No,No,1,Yes,No,DSL,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,54.65,54.65,No,0,,0.3967544270809431,0.6032455729190569
-3003-CMDUU,1,United States,California,Santa Paula,93060,"34.402343, -119.094824",34.402343,-119.094824,Female,No,Yes,No,25,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,95.15,2395.7,No,0,,0.3973510410326586,0.6026489589673414
-8224-DWCKX,1,United States,California,Burlingame,94010,"37.57028, -122.365778",37.57028,-122.365778,Male,Yes,No,No,12,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),73.3,828.05,No,0,,0.39746940624307636,0.6025305937569236
-7318-EIVKO,1,United States,California,Shandon,93461,"35.634488, -120.293534",35.634488,-120.293534,Male,No,No,No,8,Yes,Yes,DSL,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,59.25,436.6,No,0,,0.3976094349769578,0.6023905650230422
-4686-UXDML,1,United States,California,Cutler,93615,"36.497895, -119.285484",36.497895,-119.285484,Female,No,No,No,21,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),99.85,1992.55,No,0,,0.3980422970489448,0.6019577029510552
-5692-ICXLW,1,United States,California,Escondido,92027,"33.141265, -116.967221",33.141265,-116.967221,Male,Yes,No,No,31,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,90.7,2845.15,No,0,,0.39930361566895345,0.6006963843310466
-7952-OBOYL,1,United States,California,Upland,91786,"34.105493, -117.660934",34.105493,-117.660934,Male,No,No,No,3,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,No,Month-to-month,Yes,Mailed check,89.85,244.45,No,0,,0.39976339361056024,0.6002366063894398
-9167-APMXZ,1,United States,California,Long Beach,90810,"33.819814, -118.222416",33.819814,-118.222416,Female,No,No,No,22,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),84.15,1821.95,No,0,,0.40127243155583103,0.598727568444169
-0434-CSFON,1,United States,California,Los Angeles,90071,"34.052917, -118.255178",34.052917,-118.255178,Female,No,Yes,No,47,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,100.5,4707.1,No,0,,0.40149962571183895,0.598500374288161
-0620-DLSLK,1,United States,California,Pasadena,91103,"34.167465, -118.165327",34.167465,-118.165327,Female,No,No,No,13,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Mailed check,81.9,1028.9,No,0,,0.4017418087618976,0.5982581912381024
-7278-CKDNC,1,United States,California,Fresno,93701,"36.749403, -119.787574",36.749403,-119.787574,Male,Yes,No,No,24,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,80.5,2088.45,No,0,,0.40177322091272905,0.598226779087271
-9588-OZDMQ,1,United States,California,Tollhouse,93667,"36.993666, -119.348267",36.993666,-119.348267,Female,No,Yes,No,2,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,45.0,89.75,No,0,,0.40240091783468657,0.5975990821653134
-0147-ESWWR,1,United States,California,Atascadero,93422,"35.453912, -120.69461",35.453912,-120.69461,Female,Yes,Yes,No,39,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,101.25,3949.15,No,0,,0.40245807633742703,0.597541923662573
-4450-DLLMH,1,United States,California,Avalon,90704,"33.391181, -118.421305",33.391181,-118.421305,Male,No,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),71.3,157.75,No,0,,0.4028207508148529,0.5971792491851471
-9885-AIBVB,1,United States,California,Newcastle,95658,"38.883224, -121.15918",38.883224,-121.15918,Male,No,Yes,No,29,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,85.8,2440.25,No,0,,0.4029143393109651,0.5970856606890349
-4741-WWJQZ,1,United States,California,Forestville,95436,"38.499302, -122.92444",38.499302,-122.92444,Female,No,Yes,No,2,Yes,No,Fiber optic,Yes,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,80.15,194.55,No,0,,0.4034891770711576,0.5965108229288424
-9773-PEQBZ,1,United States,California,Lake Elsinore,92530,"33.655421, -117.391751",33.655421,-117.391751,Male,No,No,No,10,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,79.85,797.25,No,0,,0.4041214942993163,0.5958785057006837
-2959-FENLU,1,United States,California,Los Gatos,95033,"37.160194, -121.945611",37.160194,-121.945611,Female,No,No,No,9,Yes,No,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Credit card (automatic),85.3,781.4,No,0,,0.40493878948659745,0.5950612105134025
-8903-WMRNW,1,United States,California,Durham,95938,"39.607831, -121.777959",39.607831,-121.777959,Female,No,Yes,No,15,Yes,No,Fiber optic,Yes,No,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,101.75,1669.4,No,0,,0.4052630586527324,0.5947369413472676
-5605-IYGFG,1,United States,California,Thousand Palms,92276,"33.849263, -116.382778",33.849263,-116.382778,Female,No,No,No,7,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),69.85,515.45,No,0,,0.4057344795073623,0.5942655204926377
-1766-GKNMI,1,United States,California,Bakersfield,93307,"35.280113, -118.962329",35.280113,-118.962329,Male,No,No,No,29,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,84.9,2516.2,No,0,,0.40579367847241476,0.5942063215275852
-8617-ENBDS,1,United States,California,Helendale,92342,"34.757783, -117.33997",34.757783,-117.33997,Male,No,No,No,3,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),73.6,232.5,No,0,,0.40605516574968104,0.593944834250319
-6103-BOCOU,1,United States,California,San Francisco,94117,"37.770533, -122.445121",37.770533,-122.445121,Female,No,No,No,26,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,80.7,2193,No,0,,0.40696347935097055,0.5930365206490295
-7379-FNIUJ,1,United States,California,Olympic Valley,96146,"39.191797, -120.212401",39.191797,-120.212401,Male,No,No,No,2,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,Yes,Month-to-month,No,Electronic check,100.2,198.5,No,0,,0.4075636754249271,0.5924363245750729
-0958-YHXGP,1,United States,California,Oakland,94621,"37.750553, -122.197175",37.750553,-122.197175,Female,No,No,No,7,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,69.9,497.3,No,0,,0.4086521610426319,0.5913478389573681
-8160-HOWOX,1,United States,California,San Bernardino,92407,"34.250069, -117.393949",34.250069,-117.393949,Female,No,No,No,7,Yes,No,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,66.85,458.1,No,0,,0.4091372800446441,0.5908627199553559
-4536-PLEQY,1,United States,California,Los Angeles,90058,"34.001617, -118.222274",34.001617,-118.222274,Male,No,Yes,No,12,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),85.05,999.8,No,0,,0.4095852067504996,0.5904147932495004
-7924-GJZFI,1,United States,California,Jackson,95642,"38.336216, -120.76901",38.336216,-120.76901,Female,Yes,Yes,No,25,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.3,1813.1,No,0,,0.409611604495861,0.590388395504139
-7853-OETYL,1,United States,California,West Covina,91790,"34.066964, -117.937007",34.066964,-117.937007,Female,No,Yes,No,4,No,No phone service,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,29.05,129.6,No,0,,0.4101256562329004,0.5898743437670996
-2080-GKCWQ,1,United States,California,San Pablo,94806,"37.980269, -122.342635",37.980269,-122.342635,Male,No,No,No,2,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,74.95,151.75,No,0,,0.410214044282605,0.589785955717395
-2203-GHNWN,1,United States,California,Julian,92036,"32.980678, -116.262854",32.980678,-116.262854,Female,No,Yes,No,24,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,79.65,1928.7,No,0,,0.41059509012217954,0.5894049098778205
-4690-PKDQG,1,United States,California,San Diego,92102,"32.716007, -117.117462",32.716007,-117.117462,Female,Yes,Yes,No,42,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,95.55,3930.6,No,0,,0.41075530073791433,0.5892446992620857
-9822-OAOVB,1,United States,California,Santa Maria,93455,"34.818227, -120.418784",34.818227,-120.418784,Female,No,No,No,1,Yes,No,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,55.45,55.45,No,0,,0.410870038820361,0.589129961179639
-5119-KEPFY,1,United States,California,San Jose,95131,"37.387027, -121.897775",37.387027,-121.897775,Male,No,Yes,No,36,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),95.0,3440.25,No,0,,0.4110557344687763,0.5889442655312237
-7426-RHZGU,1,United States,California,Oakland,94603,"37.739113, -122.175602",37.739113,-122.175602,Male,No,No,No,9,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),95.9,827.45,No,0,,0.4114372903562725,0.5885627096437275
-2080-CAZNM,1,United States,California,Burbank,91502,"34.177267, -118.31003",34.177267,-118.31003,Female,Yes,No,No,41,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,104.4,4133.95,No,0,,0.4115471011374794,0.5884528988625206
-2187-PKZAY,1,United States,California,Stevinson,95374,"37.316807, -120.855753",37.316807,-120.855753,Male,No,No,No,12,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),79.95,1043.4,No,0,,0.41200988478027556,0.5879901152197244
-0682-USIXD,1,United States,California,Diamond Bar,91765,"33.992416, -117.807874",33.992416,-117.807874,Female,No,Yes,No,21,Yes,No,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,86.05,1818.9,No,0,,0.41219040328003587,0.5878095967199641
-2739-CACDQ,1,United States,California,La Jolla,92037,"32.853743, -117.25034",32.853743,-117.25034,Female,Yes,No,No,17,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),82.65,1470.05,No,0,,0.4123351069802129,0.5876648930197871
-9133-AYJZG,1,United States,California,Mill Valley,94941,"37.901371, -122.572024",37.901371,-122.572024,Female,No,No,No,23,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),98.7,2249.1,No,0,,0.4123581088268192,0.5876418911731808
-3518-PZXZQ,1,United States,California,Castroville,95012,"36.784481, -121.759054",36.784481,-121.759054,Female,No,Yes,No,1,Yes,No,DSL,No,No,No,No,Yes,No,Month-to-month,Yes,Mailed check,55.3,55.3,No,0,,0.41239046609162433,0.5876095339083757
-3771-PZOBW,1,United States,California,Solvang,93463,"34.624399, -120.137875",34.624399,-120.137875,Male,No,No,No,20,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),90.7,1781.35,No,0,,0.4137080998090641,0.5862919001909359
-0428-IKYCP,1,United States,California,Sonora,95370,"37.982716, -120.343732",37.982716,-120.343732,Male,No,Yes,No,22,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),87.0,1850.65,No,0,,0.4145065895873409,0.5854934104126591
-7284-BUYEC,1,United States,California,Tulelake,96134,"41.813521, -121.492666",41.813521,-121.492666,Female,No,No,No,5,No,No phone service,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),50.95,229.4,No,0,,0.41469629729160595,0.585303702708394
-3050-GBUSH,1,United States,California,Burlingame,94010,"37.57028, -122.365778",37.57028,-122.365778,Female,No,No,No,3,No,No phone service,DSL,No,No,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),34.8,113.95,No,0,,0.41559963059123317,0.5844003694087668
-3384-CTMSF,1,United States,California,Lincoln,95648,"38.922812, -121.312005",38.922812,-121.312005,Male,No,Yes,No,47,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,104.1,5135.15,No,0,,0.41650808948426277,0.5834919105157372
-4998-IKFSE,1,United States,California,Phelan,92371,"34.441123, -117.537886",34.441123,-117.537886,Female,No,No,No,30,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,100.45,3096.9,No,0,,0.4165338449329917,0.5834661550670083
-9093-FPDLG,1,United States,California,Hilmar,95324,"37.394536, -120.890747",37.394536,-120.890747,Female,No,No,No,11,Yes,No,Fiber optic,No,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,94.2,999.9,No,0,,0.4165975478497994,0.5834024521502006
-0988-JRWWP,1,United States,California,Wilseyville,95257,"38.392686, -120.415951",38.392686,-120.415951,Female,No,No,No,3,Yes,No,DSL,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,54.2,140.4,No,0,,0.4169205541209473,0.5830794458790527
-4183-MYFRB,1,United States,California,Los Angeles,90021,"34.029043, -118.239504",34.029043,-118.239504,Female,No,No,No,21,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,90.05,1862.9,No,0,,0.41763755154783566,0.5823624484521643
-0315-LVCRK,1,United States,California,El Dorado Hills,95762,"38.684437, -121.055634",38.684437,-121.055634,Male,No,No,No,11,Yes,No,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,No,Electronic check,84.8,888.75,No,0,,0.41777427999523264,0.5822257200047674
-5857-TYBCJ,1,United States,California,Dixon,95620,"38.392821, -121.799917",38.392821,-121.799917,Male,Yes,Yes,No,44,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,89.2,4040.2,No,0,,0.4178631006471274,0.5821368993528726
-7537-RBWEA,1,United States,California,Petrolia,95558,"40.274302, -124.210902",40.274302,-124.210902,Female,No,No,No,1,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,25.15,25.15,No,0,,0.4189360429323702,0.5810639570676298
-4367-NHWMM,1,United States,California,Corte Madera,94925,"37.924014, -122.511694",37.924014,-122.511694,Female,No,No,No,1,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,24.9,24.9,No,0,,0.419121059670976,0.580878940329024
-5501-TVMGM,1,United States,California,Canby,96015,"41.486953, -120.913975",41.486953,-120.913975,Male,No,No,No,1,Yes,No,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,55.25,55.25,No,0,,0.4195740883330963,0.5804259116669037
-5271-DBYSJ,1,United States,California,Berkeley,94708,"37.897743, -122.263124",37.897743,-122.263124,Male,Yes,No,No,11,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),79.15,827.7,No,0,,0.41958554473304177,0.5804144552669582
-1746-TGTWV,1,United States,California,Whittier,90604,"33.929704, -118.01208",33.929704,-118.01208,Male,No,Yes,No,1,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Credit card (automatic),75.35,75.35,No,0,,0.42035682687546283,0.5796431731245372
-1302-UHBDD,1,United States,California,Ladera Ranch,92694,"33.569186, -117.640055",33.569186,-117.640055,Male,Yes,No,No,20,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,89.95,1648.45,No,0,,0.4222550534372549,0.5777449465627451
-3748-FVMZZ,1,United States,California,Oakland,94610,"37.808731, -122.238708",37.808731,-122.238708,Male,No,No,No,4,No,No phone service,DSL,No,No,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,40.05,162.45,No,0,,0.4230196922291031,0.5769803077708969
-3211-AAPKX,1,United States,California,Woodland,95776,"38.694081, -121.694431",38.694081,-121.694431,Male,No,No,No,20,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,98.55,2031.95,No,0,,0.42313591486905555,0.5768640851309444
-5022-KVDQT,1,United States,California,Woodland Hills,91364,"34.153733, -118.593408",34.153733,-118.593408,Male,No,No,No,27,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,81.3,2272.8,No,0,,0.42371335701800095,0.576286642981999
-8695-ARGXZ,1,United States,California,Fresno,93722,"36.78979, -119.929894",36.78979,-119.929894,Male,Yes,Yes,No,34,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,75.55,2425.4,No,0,,0.4239299714588587,0.5760700285411413
-7978-DKUQH,1,United States,California,Lake Elsinore,92532,"33.705836, -117.318204",33.705836,-117.318204,Female,No,Yes,No,25,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,74.6,1797.75,No,0,,0.42613301381019575,0.5738669861898043
-7718-RXDGG,1,United States,California,Newcastle,95658,"38.883224, -121.15918",38.883224,-121.15918,Male,No,Yes,No,15,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),68.6,1108.6,No,0,,0.42617522663789775,0.5738247733621022
-2373-NTKOD,1,United States,California,Rancho Cordova,95670,"38.602723, -121.279913",38.602723,-121.279913,Male,No,No,No,8,Yes,No,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,66.25,546.45,No,0,,0.4264387869248121,0.5735612130751879
-0650-BWOZN,1,United States,California,Aguanga,92536,"33.482243, -116.827173",33.482243,-116.827173,Female,Yes,No,No,18,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,73.55,1359.45,No,0,,0.4270432444875064,0.5729567555124936
-5606-AMZBO,1,United States,California,Rosamond,93560,"34.903052, -118.411251",34.903052,-118.411251,Female,No,Yes,No,10,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),78.15,765.15,No,0,,0.42706743547826853,0.5729325645217315
-6778-YSNIH,1,United States,California,Riverside,92501,"33.994676, -117.372498",33.994676,-117.372498,Female,No,No,No,2,Yes,No,DSL,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,59.0,114.15,No,0,,0.4279858516579099,0.5720141483420901
-3196-NVXLZ,1,United States,California,Orange Cove,93646,"36.633498, -119.298895",36.633498,-119.298895,Female,No,No,No,25,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Mailed check,84.6,2088.05,No,0,,0.4280816438884373,0.5719183561115627
-0439-IFYUN,1,United States,California,Westley,95387,"37.546007, -121.28257",37.546007,-121.28257,Female,Yes,No,No,18,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,74.7,1294.6,No,0,,0.4286654331703139,0.5713345668296861
-9129-UXERG,1,United States,California,Van Nuys,91405,"34.202494, -118.448048",34.202494,-118.448048,Female,Yes,No,No,18,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),103.6,1806.35,No,0,,0.42957202574804154,0.5704279742519585
-9432-VOFYX,1,United States,California,Delano,93215,"35.772244, -119.209689",35.772244,-119.209689,Male,No,No,No,17,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.8,1207,No,0,,0.4302264863761547,0.5697735136238453
-5666-CYCYZ,1,United States,California,Montebello,90640,"34.015217, -118.109962",34.015217,-118.109962,Female,No,No,No,24,Yes,Yes,Fiber optic,No,No,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,89.55,2259.35,No,0,,0.4312555247297504,0.5687444752702496
-1769-GRUIK,1,United States,California,Gridley,95948,"39.346898, -121.759537",39.346898,-121.759537,Female,No,No,No,18,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,71.1,1247.75,No,0,,0.4315409250744908,0.5684590749255092
-1319-YLZJG,1,United States,California,Dutch Flat,95714,"39.197215, -120.83679",39.197215,-120.83679,Male,No,Yes,No,12,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,84.6,959.9,No,0,,0.4317874279686801,0.5682125720313199
-5543-QDCRY,1,United States,California,San Francisco,94103,"37.773147, -122.411287",37.773147,-122.411287,Male,No,No,No,4,Yes,No,DSL,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,56.4,234.85,No,0,,0.4320949815166236,0.5679050184833764
-3312-UUMZW,1,United States,California,San Jose,95117,"37.311088, -121.961786",37.311088,-121.961786,Male,No,Yes,No,32,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),98.85,3145.9,No,0,,0.43217829491885773,0.5678217050811423
-8630-FJLIB,1,United States,California,San Jose,95130,"37.277592, -121.986477",37.277592,-121.986477,Female,No,No,No,18,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,69.8,1221.65,No,0,,0.4334444982346123,0.5665555017653877
-9355-NPPFS,1,United States,California,Fremont,94538,"37.505768, -121.962472",37.505768,-121.962472,Female,Yes,No,No,26,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,78.8,2006.1,No,0,,0.433605023117431,0.566394976882569
-4360-PNRQB,1,United States,California,Yucca Valley,92284,"34.159534, -116.425984",34.159534,-116.425984,Male,No,No,No,18,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),75.6,1395.05,No,0,,0.4336833429949789,0.5663166570050211
-1212-GLHMD,1,United States,California,San Joaquin,93660,"36.600193, -120.153393",36.600193,-120.153393,Male,No,No,No,3,Yes,No,Fiber optic,Yes,No,No,No,No,Yes,Month-to-month,Yes,Mailed check,86.05,244.85,No,0,,0.43409160929871526,0.5659083907012847
-9796-BPKIW,1,United States,California,Redwood City,94063,"37.499411, -122.196318",37.499411,-122.196318,Male,Yes,No,No,8,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),69.95,562.7,No,0,,0.4347012129406794,0.5652987870593206
-3966-HRMZA,1,United States,California,Bishop,93514,"37.04584, -118.397236",37.04584,-118.397236,Female,Yes,No,No,3,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Mailed check,75.05,202.9,No,0,,0.4347402515385812,0.5652597484614188
-4195-NZGTA,1,United States,California,Valencia,91354,"34.457005, -118.573726",34.457005,-118.573726,Female,No,No,No,1,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,25.25,25.25,No,0,,0.4356174215929107,0.5643825784070893
-9365-SRSZE,1,United States,California,Los Angeles,90036,"34.070291, -118.349191",34.070291,-118.349191,Male,Yes,Yes,No,27,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,70.55,1943.9,No,0,,0.4357154886530782,0.5642845113469218
-6719-OXYBR,1,United States,California,California City,93505,"35.151491, -117.927597",35.151491,-117.927597,Male,No,No,No,15,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,No,Electronic check,85.3,1219.85,No,0,,0.43675370001875025,0.5632462999812498
-0817-HSUSE,1,United States,California,Altadena,91001,"34.196837, -118.142236",34.196837,-118.142236,Male,No,No,No,1,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,75.5,75.5,No,0,,0.43817760191459054,0.5618223980854095
-2603-HVKCG,1,United States,California,Meridian,95957,"39.068071, -121.832638",39.068071,-121.832638,Male,No,No,No,31,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,101.4,3143.65,No,0,,0.4382980311500495,0.5617019688499505
-1335-NTIUC,1,United States,California,Pacoima,91331,"34.255442, -118.421314",34.255442,-118.421314,Male,No,No,No,9,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,24.95,190.25,No,0,,0.43849837698663463,0.5615016230133654
-2424-WVHPL,1,United States,California,Redondo Beach,90278,"33.873395, -118.37019",33.873395,-118.37019,Male,Yes,No,No,1,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,No,Electronic check,74.7,74.7,No,0,,0.4388793465898957,0.5611206534101043
-2070-XYMFH,1,United States,California,Long Beach,90815,"33.797638, -118.11662",33.797638,-118.11662,Female,Yes,No,No,23,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,79.35,1835.3,No,0,,0.4388978502955182,0.5611021497044818
-0224-RLWWD,1,United States,California,Calexico,92231,"32.690654, -115.431225",32.690654,-115.431225,Female,Yes,No,No,2,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,44.3,89.3,No,0,,0.4390577144701213,0.5609422855298787
-1384-RCUXW,1,United States,California,French Gulch,96033,"40.740138, -122.587476",40.740138,-122.587476,Male,No,No,No,16,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,80.55,1248.9,No,0,,0.4398437630403311,0.5601562369596689
-7351-KYHQH,1,United States,California,Montague,96064,"41.759864, -122.379175",41.759864,-122.379175,Female,Yes,No,No,7,Yes,No,DSL,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,64.95,493.65,No,0,,0.4402587137695093,0.5597412862304907
-6260-ONULR,1,United States,California,Middletown,95461,"38.787446, -122.58675",38.787446,-122.58675,Male,No,No,No,1,Yes,No,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,62.8,62.8,No,0,,0.44178264038838644,0.5582173596116136
-0581-MDMPW,1,United States,California,San Jose,95148,"37.339533, -121.777179",37.339533,-121.777179,Female,No,No,No,24,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),88.95,2072.75,No,0,,0.4420923236474402,0.5579076763525598
-8818-DOPVL,1,United States,California,El Cerrito,94530,"37.924838, -122.289145",37.924838,-122.289145,Female,Yes,No,No,46,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,104.45,4863.85,No,0,,0.44248424620847926,0.5575157537915207
-4137-BTIKL,1,United States,California,Daggett,92327,"34.875144, -116.821698",34.875144,-116.821698,Male,No,No,No,2,Yes,Yes,Fiber optic,Yes,No,No,No,No,Yes,Month-to-month,No,Mailed check,90.75,174.75,No,0,,0.4430700712859118,0.5569299287140882
-9274-UARKJ,1,United States,California,Modesto,95351,"37.621458, -121.012295",37.621458,-121.012295,Female,No,No,No,15,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),83.2,1130,No,0,,0.4431006620578245,0.5568993379421755
-8778-LMWTJ,1,United States,California,River Pines,95675,"38.545775, -120.743325",38.545775,-120.743325,Female,No,No,No,9,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,74.85,708.2,No,0,,0.44337668200666547,0.5566233179933345
-8990-ZXLSU,1,United States,California,Sun City,92586,"33.707483, -117.200006",33.707483,-117.200006,Female,No,No,No,9,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,69.05,651.5,No,0,,0.44353532806517315,0.5564646719348268
-2582-FFFZR,1,United States,California,Vallejo,94592,"38.093701, -122.276589",38.093701,-122.276589,Female,No,No,No,22,No,No phone service,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,50.6,1073.3,No,0,,0.44414037304671483,0.5558596269532852
-5016-IBERQ,1,United States,California,Simi Valley,93063,"34.296813, -118.685703",34.296813,-118.685703,Male,No,Yes,No,23,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,No,Electronic check,84.25,1968.1,No,0,,0.44474534377215913,0.5552546562278409
-3588-WSTTJ,1,United States,California,Los Angeles,90077,"34.102084, -118.451629",34.102084,-118.451629,Female,Yes,No,No,35,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,99.05,3554.6,No,0,,0.4450550272349777,0.5549449727650223
-0921-OHLVP,1,United States,California,Paradise,95969,"39.69676, -121.644379",39.69676,-121.644379,Male,No,No,No,22,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,83.05,1799.3,No,0,,0.4453981879254363,0.5546018120745637
-2468-SJFLM,1,United States,California,Biggs,95917,"39.457388, -121.818201",39.457388,-121.818201,Male,No,No,No,1,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Mailed check,74.3,74.3,No,0,,0.44622866384522797,0.553771336154772
-9529-OFXHY,1,United States,California,Elk Creek,95939,"39.53222, -122.594879",39.53222,-122.594879,Male,No,No,No,15,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),87.75,1242.2,No,0,,0.4465060840109454,0.5534939159890546
-9921-QFQUL,1,United States,California,Garden Valley,95633,"38.852544, -120.837669",38.852544,-120.837669,Female,No,Yes,No,23,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,No,Mailed check,90.15,2044.95,No,0,,0.44663651805325255,0.5533634819467474
-4546-FOKWR,1,United States,California,Los Gatos,95032,"37.233034, -121.947427",37.233034,-121.947427,Female,No,No,No,16,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),74.75,1129.35,No,0,,0.44676750478631155,0.5532324952136884
-8040-MNRTF,1,United States,California,Taft,93268,"35.184837, -119.402525",35.184837,-119.402525,Female,No,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Mailed check,71.1,71.1,No,0,,0.4469221824168562,0.5530778175831438
-4236-UJPWO,1,United States,California,Alviso,95002,"37.449537, -121.994813",37.449537,-121.994813,Female,No,No,No,2,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,24.5,46.4,No,0,,0.4471158167974655,0.5528841832025345
-1304-BCCFO,1,United States,California,Redlands,92374,"34.064073, -117.166158",34.064073,-117.166158,Male,No,Yes,No,9,Yes,No,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Mailed check,70.05,564.4,No,0,,0.44727300223719124,0.5527269977628088
-5760-FXFVO,1,United States,California,Pleasant Grove,95668,"38.833554, -121.498102",38.833554,-121.498102,Male,No,No,No,6,Yes,No,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,78.95,494.95,No,0,,0.44729517802492447,0.5527048219750755
-3853-LYGAM,1,United States,California,Meadow Vista,95722,"39.003358, -121.022539",39.003358,-121.022539,Male,No,No,No,17,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),95.65,1640,No,0,,0.4473432002891501,0.5526567997108499
-6994-KERXL,1,United States,California,Avalon,90704,"33.391181, -118.421305",33.391181,-118.421305,Male,No,No,No,4,Yes,No,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,55.9,238.5,No,0,,0.4473567577941443,0.5526432422058557
-6652-YFFJO,1,United States,California,Tuolumne,95379,"37.939768, -120.188002",37.939768,-120.188002,Female,No,No,No,11,Yes,No,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,64.9,716.1,No,0,,0.4475410820974931,0.5524589179025069
-1399-UBQIU,1,United States,California,Orange,92867,"33.81859, -117.821288",33.81859,-117.821288,Male,No,No,No,11,Yes,No,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,69.35,712.25,No,0,,0.44922322354950583,0.5507767764504942
-4581-LNWUM,1,United States,California,San Pablo,94806,"37.980269, -122.342635",37.980269,-122.342635,Female,No,No,No,13,No,No phone service,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,49.15,649.4,No,0,,0.44922550502327785,0.5507744949767222
-2823-LKABH,1,United States,California,Rancho Mirage,92270,"33.763678, -116.429928",33.763678,-116.429928,Female,No,No,No,18,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),95.05,1679.4,No,0,,0.44936271597875055,0.5506372840212495
-1100-DDVRV,1,United States,California,Twain Harte,95383,"38.107441, -120.230625",38.107441,-120.230625,Male,No,Yes,No,17,No,No phone service,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,49.8,836.35,No,0,,0.449401440308525,0.550598559691475
-1307-ATKGB,1,United States,California,Santa Clara,95054,"37.393554, -121.965114",37.393554,-121.965114,Male,No,No,No,24,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,89.55,2187.15,No,0,,0.4495770614149567,0.5504229385850433
-3312-ZWLGF,1,United States,California,Acton,93510,"34.501452, -118.207862",34.501452,-118.207862,Male,Yes,Yes,No,29,Yes,Yes,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,79.3,2414.55,No,0,,0.4496952571716778,0.5503047428283222
-6175-IRFIT,1,United States,California,Bangor,95914,"39.396585, -121.38029",39.396585,-121.38029,Male,No,No,No,5,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Mailed check,78.75,426.35,No,0,,0.4498428338021381,0.5501571661978619
-2916-BQZLN,1,United States,California,Reseda,91335,"34.200175, -118.540958",34.200175,-118.540958,Male,No,No,No,19,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,84.75,1651.95,No,0,,0.4505623739780077,0.5494376260219923
-4238-JSSWH,1,United States,California,Porterville,93257,"36.008958, -118.891593",36.008958,-118.891593,Female,Yes,Yes,No,35,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),102.05,3452.55,No,0,,0.4508552596328781,0.5491447403671219
-0114-PEGZZ,1,United States,California,Round Mountain,96084,"40.923558, -122.059933",40.923558,-122.059933,Female,No,No,No,33,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,107.55,3645.5,No,0,,0.4512535312461069,0.5487464687538931
-5533-NHFRF,1,United States,California,San Jose,95132,"37.424655, -121.74841",37.424655,-121.74841,Male,Yes,No,No,7,No,No phone service,DSL,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,44.4,265.8,No,0,,0.45269110999319395,0.547308890006806
-5899-OUVKV,1,United States,California,Sacramento,95821,"38.625096, -121.383658",38.625096,-121.383658,Male,No,No,No,31,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,94.5,2979.2,No,0,,0.45344811729366796,0.546551882706332
-5439-WIKXB,1,United States,California,Newhall,91321,"34.370378, -118.504118",34.370378,-118.504118,Male,Yes,Yes,No,41,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,94.55,3851.45,No,0,,0.45362974176365445,0.5463702582363456
-8645-KWHJO,1,United States,California,San Gabriel,91776,"34.089927, -118.095645",34.089927,-118.095645,Male,No,No,No,14,No,No phone service,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,55.0,771.95,No,0,,0.45391978597936866,0.5460802140206313
-1101-SSWAG,1,United States,California,Berkeley,94702,"37.866009, -122.286228",37.866009,-122.286228,Female,No,Yes,No,15,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,51.1,711.15,No,0,,0.4546500975583194,0.5453499024416806
-8212-CRQXP,1,United States,California,Alviso,95002,"37.449537, -121.994813",37.449537,-121.994813,Female,No,Yes,No,22,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),80.0,1706.45,No,0,,0.45474075992024654,0.5452592400797535
-6217-TOWGS,1,United States,California,San Jose,95113,"37.333851, -121.891147",37.333851,-121.891147,Female,No,Yes,No,17,Yes,Yes,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),75.4,1322.55,No,0,,0.45484430541648657,0.5451556945835134
-5960-MVTUK,1,United States,California,Grenada,96038,"41.599978, -122.539381",41.599978,-122.539381,Male,No,No,No,3,No,No phone service,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,29.75,96.85,No,0,,0.4549759091637777,0.5450240908362223
-3916-NRPAP,1,United States,California,Escalon,95320,"37.818543, -121.006907",37.818543,-121.006907,Male,No,No,No,3,Yes,No,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,No,Credit card (automatic),85.7,256.75,No,0,,0.45614952753192417,0.5438504724680758
-0869-PAPRP,1,United States,California,Pixley,93256,"35.957019, -119.330928",35.957019,-119.330928,Female,Yes,Yes,No,26,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),85.7,2067,No,0,,0.4561975000551496,0.5438024999448504
-5482-VXSXJ,1,United States,California,Tehama,96090,"40.021787, -122.127576",40.021787,-122.127576,Male,No,No,No,22,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,93.2,2157.3,No,0,,0.45659894162789993,0.5434010583721001
-0570-BFQHT,1,United States,California,Anderson,96007,"40.448632, -122.306657",40.448632,-122.306657,Female,No,No,No,9,Yes,No,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,No,Electronic check,80.55,653.9,No,0,,0.4566902111246276,0.5433097888753724
-5183-SNMJQ,1,United States,California,Frazier Park,93225,"34.827662, -118.999073",34.827662,-118.999073,Male,No,No,No,10,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),95.1,865.1,No,0,,0.4568052259049745,0.5431947740950255
-8584-KMVXD,1,United States,California,Calistoga,94515,"38.629618, -122.593216",38.629618,-122.593216,Female,No,No,No,8,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,75.6,535.55,No,0,,0.45691562726770274,0.5430843727322973
-6486-LHTMA,1,United States,California,California City,93505,"35.151491, -117.927597",35.151491,-117.927597,Female,Yes,Yes,No,31,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,One year,Yes,Electronic check,90.7,2835.5,No,0,,0.4572113381815357,0.5427886618184643
-3088-LHEFH,1,United States,California,Pollock Pines,95726,"38.733908, -120.453416",38.733908,-120.453416,Female,No,No,No,11,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),79.0,929.3,No,0,,0.4578856783891019,0.5421143216108981
-3002-WQZWT,1,United States,California,Murrieta,92563,"33.581045, -117.14719",33.581045,-117.14719,Female,No,No,No,29,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,74.2,1993.25,No,0,,0.45814786110723094,0.5418521388927691
-0096-BXERS,1,United States,California,Inverness,94937,"38.099323, -122.945723",38.099323,-122.945723,Female,No,Yes,No,6,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,50.35,314.55,No,0,,0.4582145378745637,0.5417854621254363
-9552-TGUZV,1,United States,California,Upland,91784,"34.141146, -117.655583",34.141146,-117.655583,Male,No,Yes,No,8,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Mailed check,75.0,658.1,No,0,,0.4586438654498486,0.5413561345501514
-6599-SFQVE,1,United States,California,Santa Clara,95051,"37.348129, -121.98469",37.348129,-121.98469,Female,No,No,No,6,Yes,No,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,55.0,340.4,No,0,,0.45904322197244374,0.5409567780275563
-0599-XNYDO,1,United States,California,Graton,95444,"38.434362, -122.86891",38.434362,-122.86891,Female,No,Yes,No,20,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),69.8,1540.35,No,0,,0.4591371512158585,0.5408628487841415
-7855-DIWPO,1,United States,California,Sloughhouse,95683,"38.470423, -121.114897",38.470423,-121.114897,Female,No,No,No,21,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,68.65,1493.2,No,0,,0.4593418275799437,0.5406581724200563
-8705-WZCYL,1,United States,California,Encinitas,92024,"33.054579, -117.25665",33.054579,-117.25665,Male,No,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,44.8,44.8,No,0,,0.4613204888255399,0.5386795111744601
-4373-VVHQL,1,United States,California,Arroyo Grande,93420,"35.176236, -120.483243",35.176236,-120.483243,Male,No,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,44.75,44.75,No,0,,0.4613582615552051,0.5386417384447949
-1194-HVAIF,1,United States,California,Capistrano Beach,92624,"33.458754, -117.665104",33.458754,-117.665104,Female,No,Yes,No,27,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Credit card (automatic),95.0,2462.55,No,0,,0.4618370260560335,0.5381629739439665
-6519-CFDBX,1,United States,California,Torrance,90505,"33.807882, -118.347957",33.807882,-118.347957,Female,No,No,No,2,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,45.4,80.95,No,0,,0.4626128963321975,0.5373871036678025
-1391-UBDAR,1,United States,California,Riverside,92504,"33.9108, -117.398153",33.9108,-117.398153,Male,No,No,No,11,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,72.9,818.45,No,0,,0.462804441888537,0.537195558111463
-8456-QDAVC,1,United States,California,Winterhaven,92283,"32.852947, -114.850784",32.852947,-114.850784,Male,No,No,No,19,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),78.7,1495.1,No,0,,0.46297020203311445,0.5370297979668855
-2322-VCZHZ,1,United States,California,El Portal,95318,"37.654551, -119.822984",37.654551,-119.822984,Male,Yes,Yes,No,23,Yes,No,Fiber optic,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,90.0,2024.1,No,0,,0.46329328514957924,0.5367067148504208
-9058-MJLZC,1,United States,California,Yuba City,95991,"39.02741, -121.614982",39.02741,-121.614982,Female,No,No,No,24,Yes,No,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,94.6,2283.15,No,0,,0.4633610800522898,0.5366389199477102
-8687-BAFGU,1,United States,California,Clovis,93612,"36.814539, -119.711868",36.814539,-119.711868,Male,No,No,No,1,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,No,Electronic check,74.0,74,No,0,,0.4634329701926809,0.5365670298073191
-7562-UXTPG,1,United States,California,Canoga Park,91303,"34.19829, -118.602203",34.19829,-118.602203,Female,No,No,No,13,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,70.15,886.7,No,0,,0.4641392163345107,0.5358607836654893
-7508-SMHXL,1,United States,California,San Francisco,94109,"37.794487, -122.42227",37.794487,-122.42227,Female,Yes,No,No,15,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,No,Credit card (automatic),89.0,1288.3,No,0,,0.4652807490068238,0.5347192509931762
-3717-OEAUQ,1,United States,California,Ione,95640,"38.33788, -120.954202",38.33788,-120.954202,Male,No,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Mailed check,70.7,129.2,No,0,,0.46557583676704395,0.534424163232956
-8490-BXHEO,1,United States,California,Lucerne Valley,92356,"34.508417, -116.856103",34.508417,-116.856103,Male,Yes,No,No,18,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Credit card (automatic),80.55,1411.65,No,0,,0.4657382566751046,0.5342617433248954
-9743-DQKQW,1,United States,California,Escalon,95320,"37.818543, -121.006907",37.818543,-121.006907,Male,No,No,No,3,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,25.1,79.8,No,0,,0.4659951306481033,0.5340048693518967
-6559-PDZLR,1,United States,California,Desert Center,92239,"33.889605, -115.257009",33.889605,-115.257009,Male,No,No,No,26,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,98.65,2537,No,0,,0.46603497544797967,0.5339650245520203
-5226-NOZFC,1,United States,California,Modesto,95358,"37.612612, -121.108568",37.612612,-121.108568,Male,No,No,No,26,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,85.75,2146.5,No,0,,0.46639347383065455,0.5336065261693455
-2523-EWWZL,1,United States,California,Blythe,92225,"33.674583, -114.71612",33.674583,-114.71612,Female,No,Yes,No,27,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,76.1,2093.4,No,0,,0.466847311942141,0.533152688057859
-6243-OZGFH,1,United States,California,Vista,92084,"33.22784, -117.200024",33.22784,-117.200024,Female,No,No,No,23,No,No phone service,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,44.95,996.85,No,0,,0.4669381965234871,0.5330618034765129
-5950-AAAGJ,1,United States,California,Playa Del Rey,90293,"33.947305, -118.439841",33.947305,-118.439841,Male,No,No,No,18,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Bank transfer (automatic),84.3,1537.9,No,0,,0.4670877299282603,0.5329122700717397
-4718-DHSMV,1,United States,California,Llano,93544,"34.500091, -117.765862",34.500091,-117.765862,Female,No,No,No,11,No,No phone service,DSL,No,No,No,No,Yes,No,Month-to-month,Yes,Mailed check,35.8,363.15,No,0,,0.46720686960434255,0.5327931303956575
-2832-KJCRD,1,United States,California,Los Angeles,90071,"34.052917, -118.255178",34.052917,-118.255178,Female,No,No,No,38,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,103.65,3988.5,No,0,,0.4676465914160337,0.5323534085839663
-1580-BMCMR,1,United States,California,Tehachapi,93561,"35.073777, -118.652112",35.073777,-118.652112,Male,Yes,No,No,19,Yes,No,Fiber optic,Yes,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,87.3,1637.3,No,0,,0.46797189828757346,0.5320281017124265
-8543-MSDMF,1,United States,California,Coachella,92236,"33.680031, -116.171678",33.680031,-116.171678,Male,No,No,No,3,Yes,No,DSL,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,77.4,206.15,No,0,,0.4686565048991137,0.5313434951008863
-4128-ETESU,1,United States,California,Pasadena,91101,"34.146635, -118.139225",34.146635,-118.139225,Female,Yes,Yes,No,47,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,99.7,4747.2,No,0,,0.4702108784064869,0.5297891215935131
-3956-MGXOG,1,United States,California,Modesto,95350,"37.671806, -121.007575",37.671806,-121.007575,Female,No,No,No,28,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,80.6,2244.95,No,0,,0.4709075450879435,0.5290924549120565
-2501-XWWTZ,1,United States,California,San Clemente,92673,"33.4725, -117.584273",33.4725,-117.584273,Male,No,No,No,11,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,70.2,760.05,No,0,,0.4710018615401178,0.5289981384598822
-9638-JIQYA,1,United States,California,Ballico,95303,"37.4695, -120.672724",37.4695,-120.672724,Male,No,No,No,2,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),24.9,49.7,No,0,,0.47100432866626374,0.5289956713337363
-5035-BVCXS,1,United States,California,Loyalton,96118,"39.637471, -120.226338",39.637471,-120.226338,Male,No,No,No,11,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,75.9,866.4,No,0,,0.4714145236847139,0.5285854763152861
-7126-RBHSD,1,United States,California,Lathrop,95330,"37.80821, -121.308401",37.80821,-121.308401,Female,No,Yes,No,17,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,78.9,1348.95,No,0,,0.47149142666155275,0.5285085733384473
-6034-YMTOB,1,United States,California,Arcadia,91007,"34.128284, -118.047732",34.128284,-118.047732,Female,No,No,No,5,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Mailed check,75.65,399.45,No,0,,0.47151516119315795,0.528484838806842
-8486-AYEQH,1,United States,California,Guatay,91931,"32.857946, -116.561917",32.857946,-116.561917,Female,No,No,No,31,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,76.05,2227.8,No,0,,0.4716097051778019,0.5283902948221981
-0577-WHMEV,1,United States,California,San Jose,95133,"37.371862, -121.860349",37.371862,-121.860349,Female,No,Yes,No,16,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,No,Month-to-month,No,Electronic check,90.7,1374.9,No,0,,0.4717301296424179,0.5282698703575821
-5626-MGTUK,1,United States,California,Chatsworth,91311,"34.294142, -118.603883",34.294142,-118.603883,Female,No,No,No,20,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),89.1,1879.25,No,0,,0.4717646203485174,0.5282353796514826
-6704-UTUKK,1,United States,California,Exeter,93221,"36.301689, -119.018233",36.301689,-119.018233,Male,No,Yes,No,29,No,No phone service,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,45.9,1332.4,No,0,,0.4723881382819306,0.5276118617180694
-9518-XXBXE,1,United States,California,Patterson,95363,"37.410236, -121.320337",37.410236,-121.320337,Male,Yes,Yes,No,10,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,75.3,720.45,No,0,,0.4726833938599152,0.5273166061400848
-7658-UYUQS,1,United States,California,Fullerton,92835,"33.902211, -117.914922",33.902211,-117.914922,Male,Yes,Yes,No,21,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,No,Bank transfer (automatic),86.55,1857.25,No,0,,0.4727690871227894,0.5272309128772106
-0212-ISBBF,1,United States,California,Berkeley,94705,"37.858898, -122.240512",37.858898,-122.240512,Female,No,No,No,22,No,No phone service,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,50.35,1098.85,No,0,,0.4729044330727562,0.5270955669272438
-7895-VONWT,1,United States,California,Manhattan Beach,90266,"33.889632, -118.39737",33.889632,-118.39737,Female,No,No,No,25,No,No phone service,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,48.25,1293.8,No,0,,0.4729607304954674,0.5270392695045326
-2692-BUCFV,1,United States,California,Shingle Springs,95682,"38.598936, -120.963092",38.598936,-120.963092,Male,Yes,No,No,29,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),101.45,2948.6,No,0,,0.47305227183166343,0.5269477281683366
-3914-FDRHP,1,United States,California,Warner Springs,92086,"33.323705, -116.626907",33.323705,-116.626907,Male,No,No,No,9,Yes,No,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,No,Electronic check,86.25,770.5,No,0,,0.4735787309541176,0.5264212690458824
-2971-SGAFL,1,United States,California,Millbrae,94030,"37.601248, -122.403099",37.601248,-122.403099,Female,No,No,No,13,Yes,Yes,DSL,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,78.75,995.35,No,0,,0.47442746068402997,0.52557253931597
-2697-NQBPF,1,United States,California,Fulton,95439,"38.493888, -122.777141",38.493888,-122.777141,Male,No,No,No,34,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,105.35,3540.65,No,0,,0.47443390014608333,0.5255660998539167
-0916-QOFDP,1,United States,California,Randsburg,93554,"35.405722, -117.773354",35.405722,-117.773354,Female,Yes,Yes,Yes,14,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95.8,1346.3,No,0,,0.4746467865970173,0.5253532134029827
-1833-TCXKK,1,United States,California,San Bernardino,92408,"34.084909, -117.258107",34.084909,-117.258107,Male,No,Yes,No,45,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),107.75,4882.8,No,0,,0.4746473461773679,0.5253526538226321
-9752-ZNQUT,1,United States,California,Visalia,93291,"36.391777, -119.372842",36.391777,-119.372842,Female,No,No,No,1,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,48.6,48.6,No,0,,0.4752902151957342,0.5247097848042658
-5122-CYFXA,1,United States,California,Beverly Hills,90212,"34.062095, -118.401508",34.062095,-118.401508,Female,No,No,No,3,Yes,No,DSL,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,75.3,244.1,No,0,,0.476375781124339,0.523624218875661
-1173-NOEYG,1,United States,California,Santa Margarita,93453,"35.303926, -120.256567",35.303926,-120.256567,Female,No,Yes,No,27,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,No,Bank transfer (automatic),90.15,2423.4,No,0,,0.4772910331668434,0.5227089668331566
-0093-EXYQL,1,United States,California,Ojai,93023,"34.581308, -118.931948",34.581308,-118.931948,Female,Yes,No,No,40,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,91.55,3673.6,No,0,,0.47739402205559067,0.5226059779444093
-5630-IXDXV,1,United States,California,Reedley,93654,"36.636638, -119.421842",36.636638,-119.421842,Female,No,No,No,47,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,106.35,4849.1,No,0,,0.477630310867619,0.522369689132381
-6522-YRBXD,1,United States,California,Anaheim,92802,"33.807864, -117.923782",33.807864,-117.923782,Male,Yes,Yes,No,35,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,94.55,3365.4,No,0,,0.47821982146527275,0.5217801785347272
-1941-HOSAM,1,United States,California,San Diego,92101,"32.72523, -117.171346",32.72523,-117.171346,Male,No,Yes,Yes,1,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,90.1,90.1,No,0,,0.4783708620293764,0.5216291379706236
-1730-ZMAME,1,United States,California,Ontario,91762,"34.057256, -117.667677",34.057256,-117.667677,Female,Yes,No,No,32,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,79.5,2665,No,0,,0.4790271019967698,0.5209728980032302
-9643-YBLUR,1,United States,California,West Covina,91791,"34.061634, -117.893169",34.061634,-117.893169,Male,No,Yes,No,9,Yes,Yes,DSL,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Credit card (automatic),69.05,653.95,No,0,,0.4791243200450518,0.5208756799549482
-0221-WMXNQ,1,United States,California,Chino,91710,"33.990646, -117.663025",33.990646,-117.663025,Male,Yes,No,No,4,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,75.35,273.4,No,0,,0.4795610424062138,0.5204389575937862
-2507-QZPQS,1,United States,California,La Mirada,90638,"33.902045, -118.008961",33.902045,-118.008961,Male,No,No,No,15,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,Yes,Month-to-month,No,Electronic check,95.7,1451.1,No,0,,0.4797598311898097,0.5202401688101903
-2974-GGUXS,1,United States,California,Granite Bay,95746,"38.749466, -121.184196",38.749466,-121.184196,Female,Yes,Yes,No,36,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),91.95,3301.05,No,0,,0.47987316794852786,0.5201268320514721
-1436-ZMJAN,1,United States,California,Gerber,96035,"40.03194, -122.176023",40.03194,-122.176023,Female,No,Yes,No,10,Yes,No,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),67.8,653.15,No,0,,0.48120424175408394,0.5187957582459161
-6078-VESFR,1,United States,California,Vista,92084,"33.22784, -117.200024",33.22784,-117.200024,Male,Yes,Yes,No,13,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),70.45,849.1,No,0,,0.4813383718468601,0.5186616281531399
-2085-BOJKI,1,United States,California,Long Beach,90822,"33.778436, -118.118648",33.778436,-118.118648,Male,No,Yes,No,17,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),96.65,1588.25,No,0,,0.48145900583473633,0.5185409941652637
-4619-EVPHY,1,United States,California,Lamont,93241,"35.245035, -118.905553",35.245035,-118.905553,Female,Yes,Yes,No,20,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,One year,Yes,Bank transfer (automatic),91.0,1859.5,No,0,,0.48189462267480954,0.5181053773251905
-5144-TVGLP,1,United States,California,Los Angeles,90002,"33.949255, -118.246978",33.949255,-118.246978,Male,Yes,No,No,38,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,94.75,3653,No,0,,0.4825673750074342,0.5174326249925658
-6542-LWGXJ,1,United States,California,Pixley,93256,"35.957019, -119.330928",35.957019,-119.330928,Male,No,Yes,No,3,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,25.0,78.25,No,0,,0.4828036420486166,0.5171963579513834
-0141-YEAYS,1,United States,California,Lone Pine,93545,"36.590415, -118.073839",36.590415,-118.073839,Female,Yes,No,No,27,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),86.45,2401.05,No,0,,0.4828599919750305,0.5171400080249695
-7077-XJMET,1,United States,California,Alta,95701,"39.218096, -120.79153",39.218096,-120.79153,Male,No,Yes,No,12,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,74.15,741.4,No,0,,0.4831641506315576,0.5168358493684424
-7901-HXJVA,1,United States,California,Chico,95928,"39.681488, -121.83721",39.681488,-121.83721,Male,No,No,No,14,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,76.45,1117.55,No,0,,0.48449710399863377,0.5155028960013662
-9979-RGMZT,1,United States,California,Los Angeles,90022,"34.02381, -118.156582",34.02381,-118.156582,Female,No,No,No,7,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,One year,Yes,Mailed check,94.05,633.45,No,0,,0.4853364700285455,0.5146635299714545
-5650-YLIBA,1,United States,California,Lakeport,95453,"39.080469, -122.955176",39.080469,-122.955176,Male,No,No,No,31,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,81.15,2640.55,No,0,,0.486610474640502,0.513389525359498
-6481-ESCNL,1,United States,California,Clayton,94517,"37.881842, -121.848111",37.881842,-121.848111,Female,No,No,No,29,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),100.55,2878.75,No,0,,0.4878339995073364,0.5121660004926636
-5647-FXOTP,1,United States,California,Santa Ysabel,92070,"33.174725, -116.743329",33.174725,-116.743329,Female,Yes,Yes,No,60,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,105.9,6401.25,No,0,,0.4878789256097422,0.5121210743902578
-7586-ZATGZ,1,United States,California,Ravendale,96123,"40.845738, -120.322219",40.845738,-120.322219,Male,No,No,No,40,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,84.9,3369.05,No,0,,0.48790726524214245,0.5120927347578575
-8849-AYPTR,1,United States,California,Sacramento,95819,"38.567594, -121.437507",38.567594,-121.437507,Male,No,Yes,No,33,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,91.25,2964.05,No,0,,0.4882167538714771,0.5117832461285229
+CustomerID,Churn Probability
+6630-UJZMY,0.8415298249382824
+4927-WWOOZ,0.8391202237246563
+3489-HHPFY,0.8380317236282633
+5150-ITWWB,0.8337086635682419
+2545-EBUPK,0.8087900849518538
+4912-PIGUY,0.8084432913782335
+7668-XCFYV,0.804447364269982
+7398-SKNQZ,0.8030568183055062
+0187-QSXOE,0.801768508841591
+8161-QYMTT,0.7986898915195894
+7225-CBZPL,0.7986357679998582
+9957-YODKZ,0.7977289104110933
+8622-ZLFKO,0.7967605371970026
+3452-GWUIN,0.7938262803719706
+2077-MPJQO,0.7865613493076096
+0021-IKXGC,0.785866132083367
+6350-XFYGW,0.7857997980228947
+6969-MVBAI,0.7857699234649749
+8739-XNIKG,0.7857510031874583
+9334-GWGOW,0.7850601869860508
+7577-SWIFR,0.7794954121042861
+3096-GKWEB,0.7777336296153976
+0365-BZUWY,0.7762219641859162
+3320-VEOYC,0.774383075894736
+4847-TAJYI,0.7738409607610345
+9799-CAYJJ,0.7700413183766563
+3318-NMQXL,0.768963212714362
+2880-FPNAE,0.7687971539973324
+1197-BVMVG,0.7681551825535315
+3462-BJQQA,0.7658635406802458
+4115-NZRKS,0.7654579156494178
+9919-KNPOO,0.765420953088339
+1452-VOQCH,0.7644100529463023
+5935-FCCNB,0.7636211900763373
+4929-XIHVW,0.7617784529161292
+4090-KPJIP,0.7572101828782978
+8775-ERLNB,0.7569930196882461
+2215-ZAFGX,0.7565778103740363
+1173-XZPYF,0.7560492837769456
+5995-SNNEW,0.7554458658043038
+7321-VGNKU,0.7520127745839249
+4749-OJKQU,0.7512977105167753
+7044-YAACC,0.7502376673825993
+7439-DKZTW,0.749989077548001
+2799-ARNLO,0.7491989616025474
+6583-KQJLK,0.7443190187497026
+4234-XTNEA,0.7433603479610803
+6357-JJPQT,0.7429770538441427
+4298-OYIFC,0.742905491034176
+0168-XZKBB,0.7426801316527292
+4853-OITSN,0.7419501411075002
+9094-AZPHK,0.7418613888312343
+4813-HQMGZ,0.7417722882041999
+5348-CAGXB,0.74154581315818
+2123-AGEEN,0.7413227646559409
+3422-GALYP,0.740716599963041
+2371-JQHZZ,0.7400944103260709
+7994-UYIVZ,0.7394980338888779
+8107-KNCIM,0.7394494791571236
+7363-QTBIW,0.7388001804320025
+9290-SHCMB,0.7381480777959419
+8087-LGYHQ,0.7353304148844955
+6229-LSCKB,0.7346879194438009
+6734-GMPVK,0.7340446104086883
+7858-GTZSP,0.7330730874246464
+3878-AVSOQ,0.7318011756043856
+1960-UYCNN,0.731432896236545
+0840-DFEZH,0.7314047958627649
+9605-WGJVW,0.7311742255097904
+0018-NYROU,0.7305972176996474
+8242-SOQUO,0.7304502964351466
+4060-LDNLU,0.7298620409889613
+5956-YHHRX,0.7292676778153185
+2876-GZYZC,0.7278292860393956
+6860-YRJZP,0.7274741419194197
+0480-BIXDE,0.7263450197747019
+3292-PBZEJ,0.7249055802748481
+2789-HQBOU,0.7247302292130221
+1393-IMKZG,0.7242281393209218
+9603-OAIHC,0.724100289491656
+8541-QVFKM,0.7229347343694708
+3199-XGZCY,0.7222410200729903
+1628-BIZYP,0.7207355616190174
+9402-ORRAH,0.7180024448317627
+6198-RTPMF,0.7173249645440886
+2235-DWLJU,0.7163711846235503
+1219-NNDDO,0.7162281781456175
+5937-EORGB,0.7159878461542686
+4123-DVHPH,0.7153694288356546
+3295-YVUSR,0.7148263001126166
+3030-YDNRM,0.7147483705194926
+5429-LWCMV,0.7137039506074292
+3427-GGZZI,0.713229679744686
+4884-ZTHVF,0.7129872462232301
+4559-UWIHT,0.7124801513057568
+4395-PZMSN,0.7120799187105793
+1640-PLFMP,0.7117065097621685
+2985-FMWYF,0.7108983016296266
+7354-OIJLX,0.7103476505213953
+5928-QLDHB,0.7093281794100735
+5382-SOYZL,0.7087661836725219
+4301-VVZKA,0.7065094427177083
+6507-ZJSUR,0.7047427607320103
+7465-ZZRVX,0.7044856965722449
+5542-TBBWB,0.704200819662411
+4132-KALRO,0.7036695066011566
+4482-EWFMI,0.7035675754450107
+7394-LWLYN,0.7034738207667999
+6856-RAURS,0.7028627262230359
+0644-OQMDK,0.7022011633113617
+1200-TUZHR,0.701939088793734
+2665-NPTGL,0.7009066739425451
+7206-PQBBZ,0.7007541263243162
+3317-VLGQT,0.700690088029273
+8875-AKBYH,0.7003801785886077
+2688-BHGOG,0.7001006460999276
+0928-JMXNP,0.700099106729582
+6986-IXNDM,0.6993908332934449
+7392-YYPYJ,0.6987552715368959
+6851-WEFYX,0.6984163345393657
+9633-XQABV,0.6969276810639508
+3338-CVVEH,0.6968745989142926
+9717-QEBGU,0.6968170564190544
+2897-DOVND,0.6965979601081587
+7402-EYFXX,0.6959951443761191
+7245-NIIWQ,0.6957154201494745
+6077-BDPXA,0.6957152972111919
+6116-RFVHN,0.6944814821154898
+8313-NDOIA,0.6941393120891663
+2081-VEYEH,0.6936495062854278
+9360-OMDZZ,0.6933140754305953
+1251-STYSZ,0.6922099078644822
+2254-DLXRI,0.6919655675168324
+1078-TDCRN,0.6918251989134457
+0722-SVSFK,0.6907261616699065
+3629-ZNKXA,0.6901733299223285
+6407-UTSLV,0.6898622072759252
+7590-VHVEG,0.6891862400851507
+9903-LYSAB,0.6887838969972856
+5119-NZPTV,0.6884607613648326
+9121-PHQSR,0.6877632406271801
+4445-ZJNMU,0.6866921240602104
+4566-NECEV,0.6864215921593554
+3411-WLRSQ,0.6864149776863356
+5701-YVSVF,0.6848265986012253
+5288-AHOUP,0.6842099019684141
+5760-IFJOZ,0.6834417313224807
+2984-AFWNC,0.6830544481373183
+3370-HXOPH,0.6828454603219469
+4521-YEEHE,0.6825661744616192
+6435-SRWBJ,0.6812903583742895
+4815-GBTCD,0.6798873120204479
+6030-REHUX,0.6784983031161435
+9279-CJEOJ,0.6783707766733065
+4770-UEZOX,0.6774887239402522
+6215-NQCPY,0.6769276210399876
+2107-FBPTK,0.6739791561240285
+7823-JSOAG,0.672797031586895
+8325-QRPZR,0.6720487632313268
+2754-SDJRD,0.6717252955203582
+0793-TWELN,0.6716386665028248
+6705-LXORM,0.670305293457953
+4633-MKHYU,0.6701160970834433
+8873-GLDMH,0.6699049231235032
+2674-MIAHT,0.6697557828714594
+1016-DJTSV,0.6697350487409717
+3420-YJLQT,0.669388287960795
+1508-DFXCU,0.6690296102804966
+6267-DCFFZ,0.668512975380559
+5117-IFGPS,0.667710771017457
+6198-ZFIOJ,0.6664623941051977
+8309-IEYJD,0.6658479893837994
+2439-LYPMQ,0.6652102108933413
+3904-UKFRE,0.6643458896681451
+3453-RTHJQ,0.6642943486923986
+5216-WASFJ,0.6640784215022381
+1475-VWVDO,0.6628946883012161
+3841-CONLJ,0.6619021318615171
+2905-KFQUV,0.6618083165771782
+0396-YCHWO,0.661246853106422
+2809-ZMYOQ,0.6595984610398631
+0411-EZJZE,0.6573099335583293
+4291-SHSBH,0.6568566448445539
+1104-TNLZA,0.6568350356946904
+0848-ZGQIJ,0.6565343065030272
+9696-RMYBA,0.6553918508645684
+0928-XUTSN,0.6553903590509499
+5628-FCGYG,0.6550608075318421
+5399-ZIMKF,0.6537245881632703
+1028-FFNJK,0.6529322550430472
+8266-VBFQL,0.6522175966751209
+3496-LFSZU,0.6513547073370968
+5091-HFAZW,0.6505941884776971
+5044-LRQAQ,0.6500789250258134
+8648-PFRMP,0.6486847635120147
+6339-YPSAH,0.648031429442736
+6918-UMQCG,0.6474118413895312
+7365-BVCJH,0.6461049724946272
+7517-LDMPS,0.6457297950021466
+4059-IIEBK,0.6453844949866138
+9208-OLGAQ,0.644868096883597
+2135-DQWAQ,0.6441757373356536
+7801-KICAO,0.6441042392362426
+5032-MIYKT,0.6439880120402577
+0674-DGMAQ,0.6430366230916503
+1226-IENZN,0.6429284432046929
+3951-NJCVI,0.6424410605744367
+1754-GKYPY,0.6423172173379873
+8035-PWSEV,0.6422836098542776
+4583-PARNH,0.6418802224915321
+2038-OEQZH,0.641177885969476
+5652-MSDEY,0.6410776529304612
+6496-JDSSB,0.6407789507369539
+4647-MUZON,0.640685067108464
+7176-WIONM,0.639216512907186
+4854-CIDCF,0.6388588449765468
+8270-RKSAP,0.6383866592131934
+5599-HVLTW,0.6383504676912056
+9617-INGJY,0.6357979203289346
+5043-TRZWM,0.6353330474303941
+2504-DSHIH,0.6345926611173498
+2800-VEQXM,0.6343288849533828
+8714-CTZJW,0.6331159463969891
+6242-MBHPK,0.6329886396014327
+5339-PXDVH,0.6308885768277079
+0258-NOKBL,0.6298962608931362
+2969-QWUBZ,0.6297939123168698
+7714-YXSMB,0.6294210457943199
+0420-HLGXF,0.6288903680429435
+4716-HHKQH,0.6287972816301646
+9741-YLNTD,0.6286564174871188
+2262-SLNVK,0.6277118595201087
+4299-SIMNS,0.626195704386198
+3420-ZDBMA,0.6252707519427438
+4612-SSVHJ,0.6247594283180468
+6923-JHPMP,0.6239240652510631
+5405-ZMYXQ,0.6238703435861153
+9050-IKDZA,0.6237026714846445
+0432-CAJZV,0.6227145903079148
+8132-YPVBX,0.6227098462959401
+0749-IRGQE,0.6225660859516307
+0248-IPDFW,0.6225064219424121
+0225-ZORZP,0.6207792190396014
+1666-JXLKU,0.6206069959541101
+8709-KRDVL,0.6197802297829625
+0139-IVFJG,0.6194813937840431
+1932-UEDCX,0.6193984945185457
+5442-BHQNG,0.6191694908119902
+4029-HPFVY,0.6186564528828877
+1751-NCDLI,0.6182619577852806
+4983-CCWMC,0.6177088987775641
+5879-SESNB,0.6176262326446346
+8404-GFGCZ,0.6170013672061883
+9494-MRNYX,0.6167286382696455
+0196-JTUQI,0.616106295114327
+4480-QQRHC,0.6159193275453532
+7315-WYOAW,0.6157545357205134
+3223-DWFIO,0.614979642651134
+3365-SAIGS,0.6148159117755821
+2740-TVLFN,0.614226319239816
+5989-PGKJB,0.6138967274117578
+5453-AXEPF,0.6135664535668796
+7422-WNBTY,0.6134778119377209
+2761-XECQW,0.612312997998175
+3597-MVHJT,0.610869556459535
+1636-NTNCO,0.6108133491641422
+0491-KAPQG,0.6097346707222484
+2325-NBPZG,0.6082864513454737
+5233-AOZUF,0.60809460182755
+0447-RXSGD,0.6078933109697339
+8104-OSKWT,0.6076320349001482
+8356-WUAOJ,0.6073826882547213
+3703-KBKZP,0.607185918625005
+6833-JMZYP,0.6067311213238217
+2041-JIJCI,0.606682824371931
+9840-EFJQB,0.6064545524443824
+9506-UXUSK,0.6053239473971098
+1658-TJVOA,0.6049282451705049
+9572-WUKSB,0.6048609992656846
+0899-LIIBW,0.6043276642187126
+0581-BXBUB,0.6032563152300447
+0674-EYYZV,0.6032455729190569
+3003-CMDUU,0.6026489589673414
+8224-DWCKX,0.6025305937569236
+7318-EIVKO,0.6023905650230422
+4686-UXDML,0.6019577029510552
+5692-ICXLW,0.6006963843310466
+7952-OBOYL,0.6002366063894398
+9167-APMXZ,0.598727568444169
+0434-CSFON,0.598500374288161
+0620-DLSLK,0.5982581912381024
+7278-CKDNC,0.598226779087271
+9588-OZDMQ,0.5975990821653134
+0147-ESWWR,0.597541923662573
+4450-DLLMH,0.5971792491851471
+9885-AIBVB,0.5970856606890349
+4741-WWJQZ,0.5965108229288424
+9773-PEQBZ,0.5958785057006837
+2959-FENLU,0.5950612105134025
+8903-WMRNW,0.5947369413472676
+5605-IYGFG,0.5942655204926377
+1766-GKNMI,0.5942063215275852
+8617-ENBDS,0.593944834250319
+6103-BOCOU,0.5930365206490295
+7379-FNIUJ,0.5924363245750729
+0958-YHXGP,0.5913478389573681
+8160-HOWOX,0.5908627199553559
+4536-PLEQY,0.5904147932495004
+7924-GJZFI,0.590388395504139
+7853-OETYL,0.5898743437670996
+2080-GKCWQ,0.589785955717395
+2203-GHNWN,0.5894049098778205
+4690-PKDQG,0.5892446992620857
+9822-OAOVB,0.589129961179639
+5119-KEPFY,0.5889442655312237
+7426-RHZGU,0.5885627096437275
+2080-CAZNM,0.5884528988625206
+2187-PKZAY,0.5879901152197244
+0682-USIXD,0.5878095967199641
+2739-CACDQ,0.5876648930197871
+9133-AYJZG,0.5876418911731808
+3518-PZXZQ,0.5876095339083757
+3771-PZOBW,0.5862919001909359
+0428-IKYCP,0.5854934104126591
+7284-BUYEC,0.585303702708394
+3050-GBUSH,0.5844003694087668
+3384-CTMSF,0.5834919105157372
+4998-IKFSE,0.5834661550670083
+9093-FPDLG,0.5834024521502006
+0988-JRWWP,0.5830794458790527
+4183-MYFRB,0.5823624484521643
+0315-LVCRK,0.5822257200047674
+5857-TYBCJ,0.5821368993528726
+7537-RBWEA,0.5810639570676298
+4367-NHWMM,0.580878940329024
+5501-TVMGM,0.5804259116669037
+5271-DBYSJ,0.5804144552669582
+1746-TGTWV,0.5796431731245372
+1302-UHBDD,0.5777449465627451
+3748-FVMZZ,0.5769803077708969
+3211-AAPKX,0.5768640851309444
+5022-KVDQT,0.576286642981999
+8695-ARGXZ,0.5760700285411413
+7978-DKUQH,0.5738669861898043
+7718-RXDGG,0.5738247733621022
+2373-NTKOD,0.5735612130751879
+0650-BWOZN,0.5729567555124936
+5606-AMZBO,0.5729325645217315
+6778-YSNIH,0.5720141483420901
+3196-NVXLZ,0.5719183561115627
+0439-IFYUN,0.5713345668296861
+9129-UXERG,0.5704279742519585
+9432-VOFYX,0.5697735136238453
+5666-CYCYZ,0.5687444752702496
+1769-GRUIK,0.5684590749255092
+1319-YLZJG,0.5682125720313199
+5543-QDCRY,0.5679050184833764
+3312-UUMZW,0.5678217050811423
+8630-FJLIB,0.5665555017653877
+9355-NPPFS,0.566394976882569
+4360-PNRQB,0.5663166570050211
+1212-GLHMD,0.5659083907012847
+9796-BPKIW,0.5652987870593206
+3966-HRMZA,0.5652597484614188
+4195-NZGTA,0.5643825784070893
+9365-SRSZE,0.5642845113469218
+6719-OXYBR,0.5632462999812498
+0817-HSUSE,0.5618223980854095
+2603-HVKCG,0.5617019688499505
+1335-NTIUC,0.5615016230133654
+2424-WVHPL,0.5611206534101043
+2070-XYMFH,0.5611021497044818
+0224-RLWWD,0.5609422855298787
+1384-RCUXW,0.5601562369596689
+7351-KYHQH,0.5597412862304907
+6260-ONULR,0.5582173596116136
+0581-MDMPW,0.5579076763525598
+8818-DOPVL,0.5575157537915207
+4137-BTIKL,0.5569299287140882
+9274-UARKJ,0.5568993379421755
+8778-LMWTJ,0.5566233179933345
+8990-ZXLSU,0.5564646719348268
+2582-FFFZR,0.5558596269532852
+5016-IBERQ,0.5552546562278409
+3588-WSTTJ,0.5549449727650223
+0921-OHLVP,0.5546018120745637
+2468-SJFLM,0.553771336154772
+9529-OFXHY,0.5534939159890546
+9921-QFQUL,0.5533634819467474
+4546-FOKWR,0.5532324952136884
+8040-MNRTF,0.5530778175831438
+4236-UJPWO,0.5528841832025345
+1304-BCCFO,0.5527269977628088
+5760-FXFVO,0.5527048219750755
+3853-LYGAM,0.5526567997108499
+6994-KERXL,0.5526432422058557
+6652-YFFJO,0.5524589179025069
+1399-UBQIU,0.5507767764504942
+4581-LNWUM,0.5507744949767222
+2823-LKABH,0.5506372840212495
+1100-DDVRV,0.550598559691475
+1307-ATKGB,0.5504229385850433
+3312-ZWLGF,0.5503047428283222
+6175-IRFIT,0.5501571661978619
+2916-BQZLN,0.5494376260219923
+4238-JSSWH,0.5491447403671219
+0114-PEGZZ,0.5487464687538931
+5533-NHFRF,0.547308890006806
+5899-OUVKV,0.546551882706332
+5439-WIKXB,0.5463702582363456
+8645-KWHJO,0.5460802140206313
+1101-SSWAG,0.5453499024416806
+8212-CRQXP,0.5452592400797535
+6217-TOWGS,0.5451556945835134
+5960-MVTUK,0.5450240908362223
+3916-NRPAP,0.5438504724680758
+0869-PAPRP,0.5438024999448504
+5482-VXSXJ,0.5434010583721001
+0570-BFQHT,0.5433097888753724
+5183-SNMJQ,0.5431947740950255
+8584-KMVXD,0.5430843727322973
+6486-LHTMA,0.5427886618184643
+3088-LHEFH,0.5421143216108981
+3002-WQZWT,0.5418521388927691
+0096-BXERS,0.5417854621254363
+9552-TGUZV,0.5413561345501514
+6599-SFQVE,0.5409567780275563
+0599-XNYDO,0.5408628487841415
+7855-DIWPO,0.5406581724200563
+8705-WZCYL,0.5386795111744601
+4373-VVHQL,0.5386417384447949
+1194-HVAIF,0.5381629739439665
+6519-CFDBX,0.5373871036678025
+1391-UBDAR,0.537195558111463
+8456-QDAVC,0.5370297979668855
+2322-VCZHZ,0.5367067148504208
+9058-MJLZC,0.5366389199477102
+8687-BAFGU,0.5365670298073191
+7562-UXTPG,0.5358607836654893
+7508-SMHXL,0.5347192509931762
+3717-OEAUQ,0.534424163232956
+8490-BXHEO,0.5342617433248954
+9743-DQKQW,0.5340048693518967
+6559-PDZLR,0.5339650245520203
+5226-NOZFC,0.5336065261693455
+2523-EWWZL,0.533152688057859
+6243-OZGFH,0.5330618034765129
+5950-AAAGJ,0.5329122700717397
+4718-DHSMV,0.5327931303956575
+2832-KJCRD,0.5323534085839663
+1580-BMCMR,0.5320281017124265
+8543-MSDMF,0.5313434951008863
+4128-ETESU,0.5297891215935131
+3956-MGXOG,0.5290924549120565
+2501-XWWTZ,0.5289981384598822
+9638-JIQYA,0.5289956713337363
+5035-BVCXS,0.5285854763152861
+7126-RBHSD,0.5285085733384473
+6034-YMTOB,0.528484838806842
+8486-AYEQH,0.5283902948221981
+0577-WHMEV,0.5282698703575821
+5626-MGTUK,0.5282353796514826
+6704-UTUKK,0.5276118617180694
+9518-XXBXE,0.5273166061400848
+7658-UYUQS,0.5272309128772106
+0212-ISBBF,0.5270955669272438
+7895-VONWT,0.5270392695045326
+2692-BUCFV,0.5269477281683366
+3914-FDRHP,0.5264212690458824
+2971-SGAFL,0.52557253931597
+2697-NQBPF,0.5255660998539167
+0916-QOFDP,0.5253532134029827
+1833-TCXKK,0.5253526538226321
+9752-ZNQUT,0.5247097848042658
+5122-CYFXA,0.523624218875661
+1173-NOEYG,0.5227089668331566
+0093-EXYQL,0.5226059779444093
+5630-IXDXV,0.522369689132381
+6522-YRBXD,0.5217801785347272
+1941-HOSAM,0.5216291379706236
+1730-ZMAME,0.5209728980032302
+9643-YBLUR,0.5208756799549482
+0221-WMXNQ,0.5204389575937862
+2507-QZPQS,0.5202401688101903
+2974-GGUXS,0.5201268320514721
+1436-ZMJAN,0.5187957582459161
+6078-VESFR,0.5186616281531399
+2085-BOJKI,0.5185409941652637
+4619-EVPHY,0.5181053773251905
+5144-TVGLP,0.5174326249925658
+6542-LWGXJ,0.5171963579513834
+0141-YEAYS,0.5171400080249695
+7077-XJMET,0.5168358493684424
+7901-HXJVA,0.5155028960013662
+9979-RGMZT,0.5146635299714545
+5650-YLIBA,0.513389525359498
+6481-ESCNL,0.5121660004926636
+5647-FXOTP,0.5121210743902578
+7586-ZATGZ,0.5120927347578575
+8849-AYPTR,0.5117832461285229
