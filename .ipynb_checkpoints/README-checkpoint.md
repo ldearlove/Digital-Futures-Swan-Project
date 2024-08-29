@@ -1,2 +1,2 @@
 # Swan-Project
- Churn analysis 
+ Churn analysis of Swan Teleco Data
